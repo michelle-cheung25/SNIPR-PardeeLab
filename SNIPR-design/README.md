@@ -8,9 +8,13 @@ See published paper:
 
 [Precise and Programmable Detection of Mutations Using Ultraspecific Riboregulators, Cell, 180, 1018-1032](https://www.cell.com/cell/fulltext/S0092-8674(20)30155-0)
 
+The code is modified from Green et al, their repo is here: https://github.com/Albert09111/SNIPR
+
 # Requirements
 
-The SNIPR software makes use of the multi-objective sequence design features and energy calculation capabilities of NUPACK. Users must download the [NUPACK source code](http://www.nupack.org/downloads) and compile it on their computers. Please follow the NUPACK manual to install NUPACK. 
+The SNIPR software makes use of the multi-objective sequence design features and energy calculation capabilities of NUPACK. Users must download the [NUPACK source code](http://www.nupack.org/downloads) and compile it on their computers. Please follow the NUPACK manual to install NUPACK. See the README file in the Nupack folder after you download and follow the installation instructions. You will need to download the cmake package as well.
+
+NOTE: The SNIPR software needs to be run on macOS or Linux. The source code contains four major functions and a number of other supporting functions.
 
 After installation, it is necessary to add NUPACK to the system’s environmental variables to ensure that it can be located by the SNIPR design software. 
 
@@ -62,3 +66,20 @@ Lastly, it is necessary to specify which of the two potential targets – the wi
 For detecting the wild-type, set SNP_TARGET to 0.
 
 After finishing setting the parameters, you can run the main function SNIPR.m to generate the requested designs. The design process may take some time to finish, but the Matlab command window will keep you apprised of the progress of the algorithm.
+
+# Checking Out the Designs
+
+After the running is finished, the selected designs will appear in the output folder inside the designs subfolder (as a CSV file with the SNIPR designs ranked by penalty score). The SNIPR sequences are then ready to order for testing. If you would like to blast the designs, continue below.
+
+# Blasting the Designs
+
+Open the terminal and change the working directory to the path of the fasta folder within the output folder. This fasta folder contains fasta files of the designed SNIPR sequences (the first 33 nucleotides of each SNIPR design which estimates the SNIPR docking region) for each target.
+
+Run the “web_blast.pl” perl script:
+$perl [path of the perl script] blastn nt [fasta file for the corresponding target]
+Example:
+$perl /home/mcheu1011/SNIPR/web_blast.pl blastn nt BRCA2_6147_design.fasta
+ 
+The perl script will create a file inside the fasta folder containing the blast results.
+Note: be patient, blasting may take some time.
+Alternatively: You can blast the SNIPR design fasta files directly on the NCBI website
