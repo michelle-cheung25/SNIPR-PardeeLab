@@ -90,4 +90,4 @@ $perl /home/mcheu1011/SNIPR/web_blast.pl blastn nt BRCA2_6147_design.fasta
  
 The perl script will create a file inside the fasta folder containing the blast results.
 Note: be patient, blasting may take some time.
-Alternatively: You can blast the SNIPR design fasta files directly on the NCBI website
+Alternatively: You can blast the SNIPR design fasta files directly on the NCBI website.
