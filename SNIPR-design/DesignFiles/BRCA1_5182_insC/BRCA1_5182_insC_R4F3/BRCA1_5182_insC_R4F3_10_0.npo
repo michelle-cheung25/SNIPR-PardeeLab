@@ -1,0 +1,111 @@
+general : 
+    version  : 3.2.2
+    start time    : Tue Apr  6 16:50:00 2021
+    elapsed[sec]  :   6.682312
+    input prefix  : DesignFiles/BRCA1_5182_insC/BRCA1_5182_insC_R4F3/BRCA1_5182_insC_R4F3_10
+physical : 
+    temperature[K]: 310.150000
+    material      : rna1995
+    sodium[M]     :   1.000000
+    magnesium[M]  :   0.000000
+    dangles       :    some
+    min_ppair     :   0.000010
+design : 
+    seed          :  314074
+    population    :       1
+    H_split       :       2
+    N_split       :      12
+    M_bad         :     300
+    M_reopt       :       3
+    M_reseed      :      50
+    f_split       :   0.990000
+    f_passive     :   0.010000
+    f_stringent   :   0.990000
+    f_redecomp    :   0.030000
+    f_refocus     :   0.030000
+    dg_clamp      : -20.000000
+    cutoff[sec]   : 86000000.000000
+    allow wobble  : false
+    add default stops   : false
+sequences:
+    domains:
+        post_hpin : GUAGAACCGUAUGGGCCGACGAUGACCAUGAUUACGGAUUCACUGGCCGU
+        post_hpin* : ACGGCCAGUGAAUCCGUAAUCAUGGUCAUCGUCGGCCCAUACGGUUCUAC
+        WT_target_seq : AAAGCGAGCAAGAGAAUCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        WT_target_seq* : UUUUUGUCAACUUGAGGGAGGGAGCUUUACCUUUCUGUCCUGGGAUUCUCUUGCUCGCUUU
+        SNP_target_seq : AAAGCGAGCAAGAGAAUCCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        SNP_target_seq* : UUUUUGUCAACUUGAGGGAGGGAGCUUUACCUUUCUGUCCUGGGGAUUCUCUUGCUCGCUUU
+        preGGG : GGG
+        preGGG* : CCC
+        hpin_loop : UGCAGAGGAGAUCACAAAUG
+        hpin_loop* : CAUUUGUGAUCUCCUCUGCA
+        hpin_bulge : GCUACCUUAA
+        hpin_bulge* : UUAAGGUAGC
+        docking_region : GCUCCCUCCCUCAAGUUGACAAAAA
+        docking_region* : UUUUUGUCAACUUGAGGGAGGGAGC
+        toehold1 : ACA
+        toehold1* : UGU
+        toehold2 : ACAG
+        toehold2* : CUGU
+        bm : GCAAGAGAAUCCCCAGG
+        bm* : CCUGGGGAUUCUCUUGC
+    strands:
+        target1 : GGGAAAGCGAGCAAGAGAAUCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        target2 : GGGAAAGCGAGCAAGAGAAUCCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        hairpin0 : GGGUUUUUGUCAACUUGAGGGAGGGAGCGCUACCUUAAUGUCCUGGGGAUUCUCUUGCCUGUUGCAGAGGAGAUCACAAAUGACAGGCAAGAGAAUCCCCAGGGUAGAACCGUAUGGGCCGACGAUGACCAUGAUUACGGAUUCACUGGCCGU
+design properties:
+    evaluation time:   3.848603
+    on-targets: 5
+    off-targets: 0
+physical results:
+  - name: -default
+    structures: 
+      - name: assemble_off
+        structure: .......................................(((((((((((((((((((((((((+...))))))))))))))))))))))))).............(((((((((((((((((((((....................)))))))))))))))))))))..................................................
+        sequence:  GGGAAAGCGAGCAAGAGAAUCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA+GGGUUUUUGUCAACUUGAGGGAGGGAGCGCUACCUUAAUGUCCUGGGGAUUCUCUUGCCUGUUGCAGAGGAGAUCACAAAUGACAGGCAAGAGAAUCCCCAGGGUAGAACCGUAUGGGCCGACGAUGACCAUGAUUACGGAUUCACUGGCCGU
+        defect[nt]:  64.097413
+        normalized defect:   0.295380
+        target free energy[kcal/(mol K)]: -83.881351
+        target probability:   0.000000
+        complex free energy[kcal/(mol K)]: -115.272235
+      - name: assemble_on
+        structure: ..........((((((((((((((((((((..........(((((((((((((((((((((((((+...)))))))))))))))))))))))))..........))))))))))))))))))))...............................................................................................
+        sequence:  GGGAAAGCGAGCAAGAGAAUCCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA+GGGUUUUUGUCAACUUGAGGGAGGGAGCGCUACCUUAAUGUCCUGGGGAUUCUCUUGCCUGUUGCAGAGGAGAUCACAAAUGACAGGCAAGAGAAUCCCCAGGGUAGAACCGUAUGGGCCGACGAUGACCAUGAUUACGGAUUCACUGGCCGU
+        defect[nt]:  72.749901
+        normalized defect:   0.333715
+        target free energy[kcal/(mol K)]: -82.981351
+        target probability:   0.000000
+        complex free energy[kcal/(mol K)]: -115.830786
+      - name: hairpin
+        structure: .........................................(((((((((((((((((((((....................)))))))))))))))))))))..................................................
+        sequence:  GGGUUUUUGUCAACUUGAGGGAGGGAGCGCUACCUUAAUGUCCUGGGGAUUCUCUUGCCUGUUGCAGAGGAGAUCACAAAUGACAGGCAAGAGAAUCCCCAGGGUAGAACCGUAUGGGCCGACGAUGACCAUGAUUACGGAUUCACUGGCCGU
+        defect[nt]:  54.883899
+        normalized defect:   0.358718
+        target free energy[kcal/(mol K)]: -37.400000
+        target probability:   0.000000
+        complex free energy[kcal/(mol K)]: -61.270707
+      - name: target_snp
+        structure: .................................................................
+        sequence:  GGGAAAGCGAGCAAGAGAAUCCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        defect[nt]:  24.568472
+        normalized defect:   0.377976
+        target free energy[kcal/(mol K)]:   0.000000
+        target probability:   0.000000
+        complex free energy[kcal/(mol K)]: -10.721665
+      - name: target_wt
+        structure: ................................................................
+        sequence:  GGGAAAGCGAGCAAGAGAAUCCCAGGACAGAAAGGUAAAGCUCCCUCCCUCAAGUUGACAAAAA
+        defect[nt]:  22.099083
+        normalized defect:   0.345298
+        target free energy[kcal/(mol K)]:   0.000000
+        target probability:   0.000000
+        complex free energy[kcal/(mol K)]: -10.171453
+    tubes: []
+mean objective:   0.342218
+objectives:
+  - name: combined_objective
+    defect: 0.342218
+    satisfied: true
+    stop: 0.500000
+    type: combined
+    including: (assemble_off, assemble_on, hairpin, target_snp, target_wt)
