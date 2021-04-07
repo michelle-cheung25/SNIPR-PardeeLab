@@ -1,0 +1,3842 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 6U2A416X016
+
+
+Database: Nucleotide collection (nt)
+           69,082,330 sequences; 421,590,870,415 total letters
+Query= BRCA2_6147delT_Design1
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA r...  55.4    3e-05  100%        
+MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 D...  55.4    3e-05  100%        
+XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast ...  55.4    3e-05  100%        
+XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA re...  55.4    3e-05  100%        
+XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair...  55.4    3e-05  100%        
+MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associ...  55.4    3e-05  100%        
+MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associa...  55.4    3e-05  100%        
+XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair asso...  55.4    3e-05  100%        
+MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast...  55.4    3e-05  100%        
+MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast...  55.4    3e-05  100%        
+MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast...  55.4    3e-05  100%        
+MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494303.1 Homo sapiens isolate TWH-1524-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494302.1 Homo sapiens isolate QMH-0200-0-1 truncated breast ...  55.4    3e-05  100%        
+MH068865.1 Homo sapiens isolate TWH-1451-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068864.1 Homo sapiens isolate TWH-1872-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068863.1 Homo sapiens isolate OV-0382-0-1 BRCA2 mRNA, comple...  55.4    3e-05  100%        
+MH068862.1 Homo sapiens isolate TWH-1816-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068861.1 Homo sapiens isolate TWH-1807-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+CP034516.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+CP034491.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+XM_025363964.1 PREDICTED: Theropithecus gelada BRCA2, DNA repa...  55.4    3e-05  100%        
+MF098562.1 Homo sapiens isolate B47 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098561.1 Homo sapiens isolate B54 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098560.1 Homo sapiens isolate B49 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+XM_011748633.2 PREDICTED: Macaca nemestrina BRCA2, DNA repair ...  55.4    3e-05  100%        
+XM_024231067.1 PREDICTED: Pongo abelii BRCA2, DNA repair assoc...  55.4    3e-05  100%        
+XM_023208782.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_023208781.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_017865868.1 PREDICTED: Rhinopithecus bieti BRCA2, DNA repai...  55.4    3e-05  100%        
+XM_015439130.1 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+XM_005585600.2 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+KP255407.1 Homo sapiens isolate FP3701 truncated breast and ov...  55.4    3e-05  100%        
+XM_012064633.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064632.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064631.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_011946939.1 PREDICTED: Colobus angolensis palliatus breast ...  55.4    3e-05  100%        
+KM017652.1 Hylobates lar breast cancer 2 early onset (BRCA2) g...  55.4    3e-05  100%        
+KM017650.1 Symphalangus syndactylus breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017649.1 Trachypithecus francoisi breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017647.1 Pongo pygmaeus breast cancer 2 early onset (BRCA2) ...  55.4    3e-05  100%        
+KM017646.1 Hylobates agilis breast cancer 2 early onset (BRCA2...  55.4    3e-05  100%        
+KM017645.1 Cercopithecus wolfi breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017644.1 Nomascus leucogenys breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017642.1 Miopithecus talapoin breast cancer 2 early onset (B...  55.4    3e-05  100%        
+KM017641.1 Nomascus gabriellae breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017640.1 Hylobates pileatus breast cancer 2 early onset (BRC...  55.4    3e-05  100%        
+KM017639.1 Papio anubis breast cancer 2 early onset (BRCA2) ge...  55.4    3e-05  100%        
+KM017638.1 Gorilla gorilla breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017637.1 Macaca fascicularis breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017636.1 Colobus guereza breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017634.1 Lophocebus albigena breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KJ625189.1 Homo sapiens isolate FP1001 truncated breast and ov...  55.4    3e-05  100%        
+XM_007960073.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_037986841.1 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_007960072.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+MN780898.1 Homo sapiens isolate TWH-2211-0-1 truncated DNA rep...  55.4    3e-05  100%        
+MN780897.1 Homo sapiens isolate TWH-2124-0-1 truncated DNA rep...  55.4    3e-05  100%        
+AF288938.2 Homo sapiens breast cancer 2, early onset (BRCA2) g...  55.4    3e-05  100%        
+AC238931.3 Chlorocebus aethiops BAC clone CH252-203E13 from ch...  55.4    3e-05  100%        
+GU014835.1 Synthetic construct Homo sapiens clone IMAGE:100068...  55.4    3e-05  100%        
+NG_012772.3 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+
+ALIGNMENTS
+>XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11630
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6261  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6232
+
+
+>MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 DNA repair-associated 
+protein (BRCA2) mRNA, complete cds
+Length=8260
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11964
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), mRNA
+Length=11954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6226  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6197
+
+
+>XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X4, mRNA
+Length=10849
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  5487  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5458
+
+
+>XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=11451
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=11511
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=7401
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=9301
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=10015
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11601
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11473
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6089  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6060
+
+
+>XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X2, mRNA
+Length=11617
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X1, mRNA
+Length=11683
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11423
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6242  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6213
+
+
+>MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=7034
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=6954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11598
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10244
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6014  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5985
+
+
+>MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10252
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6022  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5993
+
+
+>MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10262
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6032  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6003
+
+
+>MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+Query= BRCA2_6147delT_Design2
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA r...  55.4    3e-05  100%        
+MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 D...  55.4    3e-05  100%        
+XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast ...  55.4    3e-05  100%        
+XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA re...  55.4    3e-05  100%        
+XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair...  55.4    3e-05  100%        
+MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associ...  55.4    3e-05  100%        
+MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associa...  55.4    3e-05  100%        
+XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair asso...  55.4    3e-05  100%        
+MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast...  55.4    3e-05  100%        
+MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast...  55.4    3e-05  100%        
+MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast...  55.4    3e-05  100%        
+MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494303.1 Homo sapiens isolate TWH-1524-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494302.1 Homo sapiens isolate QMH-0200-0-1 truncated breast ...  55.4    3e-05  100%        
+MH068865.1 Homo sapiens isolate TWH-1451-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068864.1 Homo sapiens isolate TWH-1872-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068863.1 Homo sapiens isolate OV-0382-0-1 BRCA2 mRNA, comple...  55.4    3e-05  100%        
+MH068862.1 Homo sapiens isolate TWH-1816-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068861.1 Homo sapiens isolate TWH-1807-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+CP034516.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+CP034491.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+XM_025363964.1 PREDICTED: Theropithecus gelada BRCA2, DNA repa...  55.4    3e-05  100%        
+MF098562.1 Homo sapiens isolate B47 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098561.1 Homo sapiens isolate B54 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098560.1 Homo sapiens isolate B49 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+XM_011748633.2 PREDICTED: Macaca nemestrina BRCA2, DNA repair ...  55.4    3e-05  100%        
+XM_024231067.1 PREDICTED: Pongo abelii BRCA2, DNA repair assoc...  55.4    3e-05  100%        
+XM_023208782.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_023208781.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_017865868.1 PREDICTED: Rhinopithecus bieti BRCA2, DNA repai...  55.4    3e-05  100%        
+XM_015439130.1 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+XM_005585600.2 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+KP255407.1 Homo sapiens isolate FP3701 truncated breast and ov...  55.4    3e-05  100%        
+XM_012064633.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064632.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064631.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_011946939.1 PREDICTED: Colobus angolensis palliatus breast ...  55.4    3e-05  100%        
+KM017652.1 Hylobates lar breast cancer 2 early onset (BRCA2) g...  55.4    3e-05  100%        
+KM017650.1 Symphalangus syndactylus breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017649.1 Trachypithecus francoisi breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017647.1 Pongo pygmaeus breast cancer 2 early onset (BRCA2) ...  55.4    3e-05  100%        
+KM017646.1 Hylobates agilis breast cancer 2 early onset (BRCA2...  55.4    3e-05  100%        
+KM017645.1 Cercopithecus wolfi breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017644.1 Nomascus leucogenys breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017642.1 Miopithecus talapoin breast cancer 2 early onset (B...  55.4    3e-05  100%        
+KM017641.1 Nomascus gabriellae breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017640.1 Hylobates pileatus breast cancer 2 early onset (BRC...  55.4    3e-05  100%        
+KM017639.1 Papio anubis breast cancer 2 early onset (BRCA2) ge...  55.4    3e-05  100%        
+KM017638.1 Gorilla gorilla breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017637.1 Macaca fascicularis breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017636.1 Colobus guereza breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017634.1 Lophocebus albigena breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KJ625189.1 Homo sapiens isolate FP1001 truncated breast and ov...  55.4    3e-05  100%        
+XM_007960073.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_037986841.1 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_007960072.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+MN780898.1 Homo sapiens isolate TWH-2211-0-1 truncated DNA rep...  55.4    3e-05  100%        
+MN780897.1 Homo sapiens isolate TWH-2124-0-1 truncated DNA rep...  55.4    3e-05  100%        
+AF288938.2 Homo sapiens breast cancer 2, early onset (BRCA2) g...  55.4    3e-05  100%        
+AC238931.3 Chlorocebus aethiops BAC clone CH252-203E13 from ch...  55.4    3e-05  100%        
+GU014835.1 Synthetic construct Homo sapiens clone IMAGE:100068...  55.4    3e-05  100%        
+NG_012772.3 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+
+ALIGNMENTS
+>XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11630
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6261  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6232
+
+
+>MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 DNA repair-associated 
+protein (BRCA2) mRNA, complete cds
+Length=8260
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11964
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), mRNA
+Length=11954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6226  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6197
+
+
+>XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X4, mRNA
+Length=10849
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  5487  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5458
+
+
+>XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=11451
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=11511
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=7401
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=9301
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=10015
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11601
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11473
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6089  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6060
+
+
+>XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X2, mRNA
+Length=11617
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X1, mRNA
+Length=11683
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11423
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6242  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6213
+
+
+>MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=7034
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=6954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11598
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10244
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6014  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5985
+
+
+>MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10252
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6022  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5993
+
+
+>MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10262
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6032  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6003
+
+
+>MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+Query= BRCA2_6147delT_Design3
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA r...  55.4    3e-05  100%        
+MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 D...  55.4    3e-05  100%        
+XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast ...  55.4    3e-05  100%        
+XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA re...  55.4    3e-05  100%        
+XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair...  55.4    3e-05  100%        
+MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associ...  55.4    3e-05  100%        
+MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associa...  55.4    3e-05  100%        
+XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair asso...  55.4    3e-05  100%        
+MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast...  55.4    3e-05  100%        
+MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast...  55.4    3e-05  100%        
+MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast...  55.4    3e-05  100%        
+MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494303.1 Homo sapiens isolate TWH-1524-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494302.1 Homo sapiens isolate QMH-0200-0-1 truncated breast ...  55.4    3e-05  100%        
+MH068865.1 Homo sapiens isolate TWH-1451-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068864.1 Homo sapiens isolate TWH-1872-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068863.1 Homo sapiens isolate OV-0382-0-1 BRCA2 mRNA, comple...  55.4    3e-05  100%        
+MH068862.1 Homo sapiens isolate TWH-1816-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068861.1 Homo sapiens isolate TWH-1807-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+CP034516.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+CP034491.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+XM_025363964.1 PREDICTED: Theropithecus gelada BRCA2, DNA repa...  55.4    3e-05  100%        
+MF098562.1 Homo sapiens isolate B47 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098561.1 Homo sapiens isolate B54 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098560.1 Homo sapiens isolate B49 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+XM_011748633.2 PREDICTED: Macaca nemestrina BRCA2, DNA repair ...  55.4    3e-05  100%        
+XM_024231067.1 PREDICTED: Pongo abelii BRCA2, DNA repair assoc...  55.4    3e-05  100%        
+XM_023208782.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_023208781.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_017865868.1 PREDICTED: Rhinopithecus bieti BRCA2, DNA repai...  55.4    3e-05  100%        
+XM_015439130.1 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+XM_005585600.2 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+KP255407.1 Homo sapiens isolate FP3701 truncated breast and ov...  55.4    3e-05  100%        
+XM_012064633.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064632.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064631.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_011946939.1 PREDICTED: Colobus angolensis palliatus breast ...  55.4    3e-05  100%        
+KM017652.1 Hylobates lar breast cancer 2 early onset (BRCA2) g...  55.4    3e-05  100%        
+KM017650.1 Symphalangus syndactylus breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017649.1 Trachypithecus francoisi breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017647.1 Pongo pygmaeus breast cancer 2 early onset (BRCA2) ...  55.4    3e-05  100%        
+KM017646.1 Hylobates agilis breast cancer 2 early onset (BRCA2...  55.4    3e-05  100%        
+KM017645.1 Cercopithecus wolfi breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017644.1 Nomascus leucogenys breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017642.1 Miopithecus talapoin breast cancer 2 early onset (B...  55.4    3e-05  100%        
+KM017641.1 Nomascus gabriellae breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017640.1 Hylobates pileatus breast cancer 2 early onset (BRC...  55.4    3e-05  100%        
+KM017639.1 Papio anubis breast cancer 2 early onset (BRCA2) ge...  55.4    3e-05  100%        
+KM017638.1 Gorilla gorilla breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017637.1 Macaca fascicularis breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017636.1 Colobus guereza breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017634.1 Lophocebus albigena breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KJ625189.1 Homo sapiens isolate FP1001 truncated breast and ov...  55.4    3e-05  100%        
+XM_007960073.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_037986841.1 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_007960072.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+MN780898.1 Homo sapiens isolate TWH-2211-0-1 truncated DNA rep...  55.4    3e-05  100%        
+MN780897.1 Homo sapiens isolate TWH-2124-0-1 truncated DNA rep...  55.4    3e-05  100%        
+AF288938.2 Homo sapiens breast cancer 2, early onset (BRCA2) g...  55.4    3e-05  100%        
+AC238931.3 Chlorocebus aethiops BAC clone CH252-203E13 from ch...  55.4    3e-05  100%        
+GU014835.1 Synthetic construct Homo sapiens clone IMAGE:100068...  55.4    3e-05  100%        
+NG_012772.3 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+
+ALIGNMENTS
+>XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11630
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6261  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6232
+
+
+>MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 DNA repair-associated 
+protein (BRCA2) mRNA, complete cds
+Length=8260
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11964
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), mRNA
+Length=11954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6226  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6197
+
+
+>XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X4, mRNA
+Length=10849
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  5487  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5458
+
+
+>XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=11451
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=11511
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=7401
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=9301
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=10015
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11601
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11473
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6089  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6060
+
+
+>XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X2, mRNA
+Length=11617
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X1, mRNA
+Length=11683
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11423
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6242  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6213
+
+
+>MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=7034
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=6954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11598
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10244
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6014  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5985
+
+
+>MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10252
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6022  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5993
+
+
+>MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10262
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6032  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6003
+
+
+>MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+Query= BRCA2_6147delT_Design4
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA r...  55.4    3e-05  100%        
+MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 D...  55.4    3e-05  100%        
+XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast ...  55.4    3e-05  100%        
+XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA re...  55.4    3e-05  100%        
+XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair...  55.4    3e-05  100%        
+MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associ...  55.4    3e-05  100%        
+MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associa...  55.4    3e-05  100%        
+XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair asso...  55.4    3e-05  100%        
+MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast...  55.4    3e-05  100%        
+MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast...  55.4    3e-05  100%        
+MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast...  55.4    3e-05  100%        
+MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494303.1 Homo sapiens isolate TWH-1524-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494302.1 Homo sapiens isolate QMH-0200-0-1 truncated breast ...  55.4    3e-05  100%        
+MH068865.1 Homo sapiens isolate TWH-1451-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068864.1 Homo sapiens isolate TWH-1872-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068863.1 Homo sapiens isolate OV-0382-0-1 BRCA2 mRNA, comple...  55.4    3e-05  100%        
+MH068862.1 Homo sapiens isolate TWH-1816-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068861.1 Homo sapiens isolate TWH-1807-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+CP034516.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+CP034491.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+XM_025363964.1 PREDICTED: Theropithecus gelada BRCA2, DNA repa...  55.4    3e-05  100%        
+MF098562.1 Homo sapiens isolate B47 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098561.1 Homo sapiens isolate B54 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098560.1 Homo sapiens isolate B49 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+XM_011748633.2 PREDICTED: Macaca nemestrina BRCA2, DNA repair ...  55.4    3e-05  100%        
+XM_024231067.1 PREDICTED: Pongo abelii BRCA2, DNA repair assoc...  55.4    3e-05  100%        
+XM_023208782.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_023208781.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_017865868.1 PREDICTED: Rhinopithecus bieti BRCA2, DNA repai...  55.4    3e-05  100%        
+XM_015439130.1 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+XM_005585600.2 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+KP255407.1 Homo sapiens isolate FP3701 truncated breast and ov...  55.4    3e-05  100%        
+XM_012064633.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064632.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064631.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_011946939.1 PREDICTED: Colobus angolensis palliatus breast ...  55.4    3e-05  100%        
+KM017652.1 Hylobates lar breast cancer 2 early onset (BRCA2) g...  55.4    3e-05  100%        
+KM017650.1 Symphalangus syndactylus breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017649.1 Trachypithecus francoisi breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017647.1 Pongo pygmaeus breast cancer 2 early onset (BRCA2) ...  55.4    3e-05  100%        
+KM017646.1 Hylobates agilis breast cancer 2 early onset (BRCA2...  55.4    3e-05  100%        
+KM017645.1 Cercopithecus wolfi breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017644.1 Nomascus leucogenys breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017642.1 Miopithecus talapoin breast cancer 2 early onset (B...  55.4    3e-05  100%        
+KM017641.1 Nomascus gabriellae breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017640.1 Hylobates pileatus breast cancer 2 early onset (BRC...  55.4    3e-05  100%        
+KM017639.1 Papio anubis breast cancer 2 early onset (BRCA2) ge...  55.4    3e-05  100%        
+KM017638.1 Gorilla gorilla breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017637.1 Macaca fascicularis breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017636.1 Colobus guereza breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017634.1 Lophocebus albigena breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KJ625189.1 Homo sapiens isolate FP1001 truncated breast and ov...  55.4    3e-05  100%        
+XM_007960073.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_037986841.1 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_007960072.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+MN780898.1 Homo sapiens isolate TWH-2211-0-1 truncated DNA rep...  55.4    3e-05  100%        
+MN780897.1 Homo sapiens isolate TWH-2124-0-1 truncated DNA rep...  55.4    3e-05  100%        
+AF288938.2 Homo sapiens breast cancer 2, early onset (BRCA2) g...  55.4    3e-05  100%        
+AC238931.3 Chlorocebus aethiops BAC clone CH252-203E13 from ch...  55.4    3e-05  100%        
+GU014835.1 Synthetic construct Homo sapiens clone IMAGE:100068...  55.4    3e-05  100%        
+NG_012772.3 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+
+ALIGNMENTS
+>XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11630
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6261  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6232
+
+
+>MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 DNA repair-associated 
+protein (BRCA2) mRNA, complete cds
+Length=8260
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11964
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), mRNA
+Length=11954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6226  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6197
+
+
+>XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X4, mRNA
+Length=10849
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  5487  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5458
+
+
+>XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=11451
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=11511
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=7401
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=9301
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=10015
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11601
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11473
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6089  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6060
+
+
+>XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X2, mRNA
+Length=11617
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X1, mRNA
+Length=11683
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11423
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6242  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6213
+
+
+>MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=7034
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=6954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11598
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10244
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6014  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5985
+
+
+>MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10252
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6022  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5993
+
+
+>MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10262
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6032  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6003
+
+
+>MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+Query= BRCA2_6147delT_Design5
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA r...  55.4    3e-05  100%        
+MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 D...  55.4    3e-05  100%        
+XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair as...  55.4    3e-05  100%        
+MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast ...  55.4    3e-05  100%        
+XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associ...  55.4    3e-05  100%        
+XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA re...  55.4    3e-05  100%        
+XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA re...  55.4    3e-05  100%        
+XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair...  55.4    3e-05  100%        
+MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associ...  55.4    3e-05  100%        
+MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associa...  55.4    3e-05  100%        
+XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair asso...  55.4    3e-05  100%        
+MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast...  55.4    3e-05  100%        
+MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast...  55.4    3e-05  100%        
+MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast a...  55.4    3e-05  100%        
+MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast...  55.4    3e-05  100%        
+MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494303.1 Homo sapiens isolate TWH-1524-0-1 truncated breast ...  55.4    3e-05  100%        
+MG494302.1 Homo sapiens isolate QMH-0200-0-1 truncated breast ...  55.4    3e-05  100%        
+MH068865.1 Homo sapiens isolate TWH-1451-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068864.1 Homo sapiens isolate TWH-1872-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068863.1 Homo sapiens isolate OV-0382-0-1 BRCA2 mRNA, comple...  55.4    3e-05  100%        
+MH068862.1 Homo sapiens isolate TWH-1816-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+MH068861.1 Homo sapiens isolate TWH-1807-0-1 BRCA2 mRNA, compl...  55.4    3e-05  100%        
+CP034516.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+CP034491.1 Eukaryotic synthetic construct chromosome 13            55.4    3e-05  100%        
+XM_025363964.1 PREDICTED: Theropithecus gelada BRCA2, DNA repa...  55.4    3e-05  100%        
+MF098562.1 Homo sapiens isolate B47 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098561.1 Homo sapiens isolate B54 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+MF098560.1 Homo sapiens isolate B49 BRCA2 (BRCA2) gene, partia...  55.4    3e-05  100%        
+XM_011748633.2 PREDICTED: Macaca nemestrina BRCA2, DNA repair ...  55.4    3e-05  100%        
+XM_024231067.1 PREDICTED: Pongo abelii BRCA2, DNA repair assoc...  55.4    3e-05  100%        
+XM_023208782.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_023208781.1 PREDICTED: Piliocolobus tephrosceles BRCA2 DNA ...  55.4    3e-05  100%        
+XM_017865868.1 PREDICTED: Rhinopithecus bieti BRCA2, DNA repai...  55.4    3e-05  100%        
+XM_015439130.1 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+XM_005585600.2 PREDICTED: Macaca fascicularis breast cancer 2 ...  55.4    3e-05  100%        
+KP255407.1 Homo sapiens isolate FP3701 truncated breast and ov...  55.4    3e-05  100%        
+XM_012064633.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064632.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_012064631.1 PREDICTED: Cercocebus atys breast cancer 2, ear...  55.4    3e-05  100%        
+XM_011946939.1 PREDICTED: Colobus angolensis palliatus breast ...  55.4    3e-05  100%        
+KM017652.1 Hylobates lar breast cancer 2 early onset (BRCA2) g...  55.4    3e-05  100%        
+KM017650.1 Symphalangus syndactylus breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017649.1 Trachypithecus francoisi breast cancer 2 early onse...  55.4    3e-05  100%        
+KM017647.1 Pongo pygmaeus breast cancer 2 early onset (BRCA2) ...  55.4    3e-05  100%        
+KM017646.1 Hylobates agilis breast cancer 2 early onset (BRCA2...  55.4    3e-05  100%        
+KM017645.1 Cercopithecus wolfi breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017644.1 Nomascus leucogenys breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017642.1 Miopithecus talapoin breast cancer 2 early onset (B...  55.4    3e-05  100%        
+KM017641.1 Nomascus gabriellae breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017640.1 Hylobates pileatus breast cancer 2 early onset (BRC...  55.4    3e-05  100%        
+KM017639.1 Papio anubis breast cancer 2 early onset (BRCA2) ge...  55.4    3e-05  100%        
+KM017638.1 Gorilla gorilla breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017637.1 Macaca fascicularis breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KM017636.1 Colobus guereza breast cancer 2 early onset (BRCA2)...  55.4    3e-05  100%        
+KM017634.1 Lophocebus albigena breast cancer 2 early onset (BR...  55.4    3e-05  100%        
+KJ625189.1 Homo sapiens isolate FP1001 truncated breast and ov...  55.4    3e-05  100%        
+XM_007960073.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_037986841.1 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+XM_007960072.2 PREDICTED: Chlorocebus sabaeus BRCA2 DNA repair...  55.4    3e-05  100%        
+MN780898.1 Homo sapiens isolate TWH-2211-0-1 truncated DNA rep...  55.4    3e-05  100%        
+MN780897.1 Homo sapiens isolate TWH-2124-0-1 truncated DNA rep...  55.4    3e-05  100%        
+AF288938.2 Homo sapiens breast cancer 2, early onset (BRCA2) g...  55.4    3e-05  100%        
+AC238931.3 Chlorocebus aethiops BAC clone CH252-203E13 from ch...  55.4    3e-05  100%        
+GU014835.1 Synthetic construct Homo sapiens clone IMAGE:100068...  55.4    3e-05  100%        
+NG_012772.3 Homo sapiens BRCA2 DNA repair associated (BRCA2), ...  55.4    3e-05  100%        
+
+ALIGNMENTS
+>XM_033235629.1 PREDICTED: Trachypithecus francoisi BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11630
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6261  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6232
+
+
+>MN264278.1 Homo sapiens isolate TWH-2163-0-1 truncated BRCA2 DNA repair-associated 
+protein (BRCA2) mRNA, complete cds
+Length=8260
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_032150518.2 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11964
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>NM_000059.4 Homo sapiens BRCA2 DNA repair associated (BRCA2), mRNA
+Length=11954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6226  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6197
+
+
+>XM_032150521.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X4, mRNA
+Length=10849
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  5487  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5458
+
+
+>XM_032150520.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=11451
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>XM_032150519.1 PREDICTED: Hylobates moloch BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=11511
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6245  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6216
+
+
+>MK848287.1 Homo sapiens isolate TWH-2059-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=7401
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_021929370.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X3, mRNA
+Length=9301
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_021929368.2 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X2, mRNA
+Length=10015
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_003913740.5 PREDICTED: Papio anubis BRCA2 DNA repair associated (BRCA2), 
+transcript variant X1, mRNA
+Length=11601
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6257  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6228
+
+
+>XM_019039974.2 PREDICTED: Gorilla gorilla gorilla BRCA2 DNA repair associated 
+(BRCA2), mRNA
+Length=11473
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6089  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6060
+
+
+>XM_010367067.2 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X2, mRNA
+Length=11617
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_030922112.1 PREDICTED: Rhinopithecus roxellana BRCA2 DNA repair associated 
+(BRCA2), transcript variant X1, mRNA
+Length=11683
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>XM_003270250.4 PREDICTED: Nomascus leucogenys BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11423
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6242  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6213
+
+
+>MK028705.1 Homo sapiens isolate TWH-1971-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=7034
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MK028702.1 Homo sapiens isolate FP-0226-0-1 DNA repair-associated BRCA2 
+(BRCA2) mRNA, complete cds
+Length=6954
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>XM_028837649.1 PREDICTED: Macaca mulatta BRCA2 DNA repair associated (BRCA2), 
+mRNA
+Length=11598
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6252  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6223
+
+
+>MG494336.1 Homo sapiens isolate TWH-0529-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494335.1 Homo sapiens isolate KWH-0108-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494334.1 Homo sapiens isolate KWH-0142-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494333.1 Homo sapiens isolate FP-0138-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10258
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494332.1 Homo sapiens isolate QMH-0009-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494331.1 Homo sapiens isolate TWH-1028-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494330.1 Homo sapiens isolate FP-0132-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494329.1 Homo sapiens isolate TWH-0253-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494328.1 Homo sapiens isolate OV-0135-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494327.1 Homo sapiens isolate TWH-1299-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494326.1 Homo sapiens isolate TWH-1450-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494325.1 Homo sapiens isolate TWH-1268-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494324.1 Homo sapiens isolate QMH-0237-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494323.1 Homo sapiens isolate TWH-1394-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494322.1 Homo sapiens isolate TWH-1355-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494320.1 Homo sapiens isolate TWH-1174-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10255
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6025  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5996
+
+
+>MG494319.1 Homo sapiens isolate HKSH-0173-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10244
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6014  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5985
+
+
+>MG494318.1 Homo sapiens isolate TWH-1636-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494317.1 Homo sapiens isolate HKSH-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494316.1 Homo sapiens isolate TWH-1219-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10252
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6022  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5993
+
+
+>MG494315.1 Homo sapiens isolate TWH-1161-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494314.1 Homo sapiens isolate TWH-1435-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494313.1 Homo sapiens isolate OV-0169-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494312.1 Homo sapiens isolate TWH-0965-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494311.1 Homo sapiens isolate TWH-1595-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494310.1 Homo sapiens isolate TWH-1716-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494309.1 Homo sapiens isolate TWH-0923-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494308.1 Homo sapiens isolate TWH-1358-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10256
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6026  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5997
+
+
+>MG494307.1 Homo sapiens isolate HKSH-0227-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10253
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6023  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5994
+
+
+>MG494306.1 Homo sapiens isolate KWH-0126-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+>MG494305.1 Homo sapiens isolate TWH-0754-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10262
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6032  TTGCTTGGTACTATCTTCTATTTCAGAAAA  6003
+
+
+>MG494304.1 Homo sapiens isolate TWH-1383-0-1 truncated breast and ovarian 
+cancer susceptibility protein 2 (BRCA2) mRNA, complete cds
+Length=10257
+
+ Score = 55.4 bits (60),  Expect = 3e-05
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTGCTTGGTACTATCTTCTATTTCAGAAAA  33
+             ||||||||||||||||||||||||||||||
+Sbjct  6027  TTGCTTGGTACTATCTTCTATTTCAGAAAA  5998
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Apr 5, 2021  6:20 AM
+  Number of letters in database: 421,590,870,415
+  Number of sequences in database:  69,082,330
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 69082330
+Number of Hits to DB: 6257345
+Number of extensions: 7714
+Number of successful extensions: 7714
+Number of sequences better than 10: 4
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 7714
+Number of HSP's successfully gapped: 20
+Length of database: 421590870415
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+
+
