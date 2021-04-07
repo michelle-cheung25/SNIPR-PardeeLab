@@ -63,7 +63,7 @@ end
 % sort the sequence based on penalty score
 [sorted_score, sorted_index] = sort(penalty_score_set);
 sorted_design_library = sorted_score_library(sorted_index,:);
-fprintf('library size: %g \n', size(sorted_design_library));
+fprintf('sorted library size (rows x columns): %g \n', size(sorted_design_library));
 
 top_design = {};
 top_design(1,:) = {'order','SNIPR sequence','WT sequence','Mutant sequence','Defects','SNP ReactE','WT ReactE','Penalty Score'};
