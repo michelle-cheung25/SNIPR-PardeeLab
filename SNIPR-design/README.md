@@ -84,9 +84,10 @@ After the running is finished, the selected designs will appear in the output fo
 Open the terminal and change the working directory to the path of the fasta folder within the output folder. This fasta folder contains fasta files of the designed SNIPR sequences (the first 33 nucleotides of each SNIPR design which estimates the SNIPR docking region) for each target.
 
 Run the “web_blast.pl” perl script:
+
 $perl [path of the perl script] blastn nt [fasta file for the corresponding target]
-Example:
-$perl /home/mcheu1011/SNIPR/web_blast.pl blastn nt BRCA2_6147_design.fasta
+
+Example: $perl /home/mcheu1011/SNIPR/web_blast.pl blastn nt BRCA2_6147_design.fasta
  
 The perl script will create a file inside the fasta folder containing the blast results.
 Note: be patient, blasting may take some time.
