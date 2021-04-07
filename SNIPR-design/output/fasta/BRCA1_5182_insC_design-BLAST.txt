@@ -1,0 +1,3694 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 6U1U1Y16016
+
+Database: Nucleotide collection (nt)
+           68,864,706 sequences; 416,230,757,173 total letters
+Query= BRCA1_5182_insC_Design1
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033221305.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+XM_033221297.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast ...  44.6    0.048  100%        
+CP034495.1 Eukaryotic synthetic construct chromosome 17            44.6    0.048  100%        
+KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ...  44.6    0.048  100%        
+CP068261.1 Homo sapiens isolate CHM13 chromosome 17                44.6    0.048  100%        
+AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete ge...  44.6    0.048  100%        
+NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), ...  44.6    0.048  100%        
+DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, ...  44.6    0.048  100%        
+DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds        44.6    0.048  100%        
+AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, c...  44.6    0.048  100%        
+L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; riboso...  44.6    0.048  100%        
+DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susc...  44.6    0.048  100%        
+AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer sus...  44.6    0.048  100%        
+AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian can...  44.6    0.048  100%        
+AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian can...  44.6    0.048  100%        
+AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian can...  44.6    0.048  100%        
+AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian ca...  44.6    0.048  100%        
+AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian ca...  44.6    0.048  100%        
+AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian can...  44.6    0.048  100%        
+AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian can...  44.6    0.048  100%        
+AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian can...  44.6    0.048  100%        
+AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian can...  44.6    0.048  100%        
+AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) g...  44.6    0.048  100%        
+AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partia...  44.6    0.048  100%        
+AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence      44.6    0.048  100%        
+OE181007.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OE495982.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OE494242.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OD001166.1 1_Tps_b3v08                                             41.0    0.59   93%         
+OC002832.1 2_Tsi_b3v08                                             41.0    0.59   93%         
+OA564806.1 1_Tdi_b3v08                                             41.0    0.59   93%         
+LR884460.1 Acanthopagrus latus isolate v.2019 genome assembly,...  40.1    2.1    90%         
+AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, c...  40.1    2.1    96%         
+AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovar...  40.1    2.1    96%         
+AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian can...  40.1    2.1    96%         
+CP023118.1 Lupinus angustifolius cultivar Tanjil chromosome LG-06  39.2    2.1    92%         
+NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitoc...  39.2    2.1    100%        
+CP050587.1 Canis lupus familiaris breed Labrador retriever chr...  38.3    7.2    96%         
+CP050645.1 Canis lupus familiaris breed Labrador retriever chr...  38.3    7.2    96%         
+CP034492.1 Eukaryotic synthetic construct chromosome 14            38.3    7.2    96%         
+FR989862.1 Biston betularia genome assembly, chromosome: Z         38.3    7.2    96%         
+HG994419.1 Canis lupus genome assembly, chromosome: 35             38.3    7.2    96%         
+AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susc...  38.3    7.2    96%         
+AL450442.2 Human chromosome 14 DNA sequence BAC R-214N1 of lib...  38.3    7.2    96%         
+AL442163.5 Human chromosome 14 DNA sequence BAC R-90P16 of lib...  38.3    7.2    96%         
+LR738418.1 Lutra lutra genome assembly, chromosome: 16             37.4    7.2    92%         
+CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05       37.4    7.2    92%         
+XM_011127086.1 Orbilia oligospora ATCC 24927 uncharacterized p...  37.4    7.2    92%         
+LR990918.1 Pararge aegeria genome assembly, chromosome: 27         37.4    7.2    92%         
+LR899876.1 Darwinula stevensoni                                    37.4    7.2    100%        
+LR877230.1 Acomys russatus genome assembly, chromosome: 19         37.4    7.2    100%        
+
+ALIGNMENTS
+>XM_033221305.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X2, mRNA
+Length=5167
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4854  TTTTTGTCAACTTGAGGGAGGGAG  4831
+
+
+>XM_033221297.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X1, mRNA
+Length=5169
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4857  TTTTTGTCAACTTGAGGGAGGGAG  4834
+
+
+>MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast and ovarian 
+cancer susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP034495.1 Eukaryotic synthetic construct chromosome 17
+ CP034520.1 Eukaryotic synthetic construct chromosome 17
+Length=88299790
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  41209039  TTTTTGTCAACTTGAGGGAGGGAG  41209062
+
+
+>KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ovarian cancer 
+susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP068261.1 Homo sapiens isolate CHM13 chromosome 17
+Length=84277185
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  43915863  TTTTTGTCAACTTGAGGGAGGGAG  43915886
+
+
+>AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete genome
+Length=80688777
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  40813089  TTTTTGTCAACTTGAGGGAGGGAG  40813112
+
+
+>NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene 
+(LRG_292) on chromosome 17
+Length=193689
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  160962  TTTTTGTCAACTTGAGGGAGGGAG  160939
+
+
+>DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, partial cds; 
+neighbor of BRCA1 gene 2 (NBR2) gene, complete cds; and early 
+onset breast cancer 1 (BRCA1) gene, partial cds
+Length=150505
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140536  TTTTTGTCAACTTGAGGGAGGGAG  140513
+
+
+>DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; hypothetical protein LOC10230 (NBR2) gene, 
+complete cds; and breast cancer 1 early onset (BRCA1) gene, 
+partial cds
+Length=147576
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137596  TTTTTGTCAACTTGAGGGAGGGAG  137573
+
+
+>DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150669
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137641  TTTTTGTCAACTTGAGGGAGGGAG  137618
+
+
+>DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=155470
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140204  TTTTTGTCAACTTGAGGGAGGGAG  140181
+
+
+>DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150582
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  133060  TTTTTGTCAACTTGAGGGAGGGAG  133037
+
+
+>DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156879
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  138904  TTTTTGTCAACTTGAGGGAGGGAG  138881
+
+
+>AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds
+Length=80966
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69152  TTTTTGTCAACTTGAGGGAGGGAG  69129
+
+
+>AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, complete cds
+Length=84982
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71685  TTTTTGTCAACTTGAGGGAGGGAG  71662
+
+
+>L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; ribosomal protein 
+L21-like protein (rpL21) pseudogene, complete sequence; 
+Rho7 (Rho7) and VatI (VatI) genes, complete cds; and unknown 
+(ifp35) gene, exons 1 through 3 and partial cds
+Length=117143
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71711  TTTTTGTCAACTTGAGGGAGGGAG  71688
+
+
+>DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156121
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136542  TTTTTGTCAACTTGAGGGAGGGAG  136519
+
+
+>DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=161765
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136612  TTTTTGTCAACTTGAGGGAGGGAG  136589
+
+
+>DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=167910
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137488  TTTTTGTCAACTTGAGGGAGGGAG  137465
+
+
+>AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  120  TTTTTGTCAACTTGAGGGAGGGAG  97
+
+
+>AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=299
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  182  TTTTTGTCAACTTGAGGGAGGGAG  159
+
+
+>AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=339
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  197  TTTTTGTCAACTTGAGGGAGGGAG  174
+
+
+>AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian cancer susceptibility-like 
+protein (BRCA1) gene, partial sequence
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=337
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=319
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=284
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAG  27
+           ||||||||||||||||||||||||
+Sbjct  76  TTTTTGTCAACTTGAGGGAGGGAG  53
+
+
+>AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) gene, complete 
+cds
+Length=82899
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69355  TTTTTGTCAACTTGAGGGAGGGAG  69332
+
+
+>AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partial cds
+Length=271
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  194  TTTTTGTCAACTTGAGGGAGGGAG  171
+
+
+>AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence
+Length=150472
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  102398  TTTTTGTCAACTTGAGGGAGGGAG  102375
+
+
+>OE181007.1 2_Tcm_b3v08
+Length=121235
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  48617  TTTTTGTCAACTTTAGGGTGGGAGTAA  48643
+
+
+>OE495982.1 2_Tcm_b3v08
+Length=390
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+            ||||||||||||| |||| ||||||||
+Sbjct  146  TTTTTGTCAACTTTAGGGTGGGAGTAA  120
+
+
+>OE494242.1 2_Tcm_b3v08
+Length=391
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+            ||||||||||||| |||| ||||||||
+Sbjct  246  TTTTTGTCAACTTTAGGGTGGGAGTAA  272
+
+
+>OD001166.1 1_Tps_b3v08
+Length=131083
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  69845  TTTTTGTCAACTTTAGGGTGGGAGTAA  69871
+
+
+>OC002832.1 2_Tsi_b3v08
+Length=102391
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  52508  TTTTTGTCAACTTTAGGGTGGGAGTAA  52534
+
+
+>OA564806.1 1_Tdi_b3v08
+Length=259330
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+               ||||||||||||| |||| ||||||||
+Sbjct  140060  TTTTTGTCAACTTTAGGGTGGGAGTAA  140086
+
+
+>LR884460.1 Acanthopagrus latus isolate v.2019 genome assembly, chromosome: 
+1
+Length=33527824
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 28/31 (90%), Gaps = 1/31 (3%)
+ Strand=Plus/Minus
+
+Query  3         GTTTTTGTCAACTTGAGGGAGGGAGTAAGCG  33
+                 |||||| ||| || |||||||||||||||||
+Sbjct  19764266  GTTTTTATCATCT-GAGGGAGGGAGTAAGCG  19764237
+
+
+>AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, complete cds
+Length=83366
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              |||||||||||||||||||| |||
+Sbjct  71300  TTTTTGTCAACTTGAGGGAGAGAG  71277
+
+
+>AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovarian cancer 
+susceptibility protein (BRCA1) gene, exon 20 and partial sequence
+Length=321
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  113  TTTTTGTCACCTTGAGGGAGGGAG  90
+
+
+>AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=333
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  127  TTTTTGTCACCTTGAGGGAGGGAG  104
+
+
+>CP023118.1 Lupinus angustifolius cultivar Tanjil chromosome LG-06
+Length=40902325
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  6        TTTGTCAACTTGAGGGAGGGAGTAAG  31
+                |||||||||| ||||||||||| |||
+Sbjct  4147627  TTTGTCAACTCGAGGGAGGGAGAAAG  4147652
+
+
+>NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+ MT653609.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+Length=18038
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1    GGGTTTTTGTCAACTTGAGGG  21
+            |||||||||||||||||||||
+Sbjct  546  GGGTTTTTGTCAACTTGAGGG  526
+
+
+>CP050587.1 Canis lupus familiaris breed Labrador retriever chromosome 35a
+Length=26577597
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236711  TTGTCAACTTGAGGCAGGGAGTA  236689
+
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236711  TTGTCAACTTGAGGCAGGGAGTA  236689
+
+
+>CP050645.1 Canis lupus familiaris breed Labrador retriever chromosome 35b
+Length=26531362
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236714  TTGTCAACTTGAGGCAGGGAGTA  236692
+
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236714  TTGTCAACTTGAGGCAGGGAGTA  236692
+
+
+>CP034492.1 Eukaryotic synthetic construct chromosome 14
+ CP034517.1 Eukaryotic synthetic construct chromosome 14
+Length=88289540
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGT  28
+                 |||| ||||||||||||||||||
+Sbjct  23987181  TTTGCCAACTTGAGGGAGGGAGT  23987159
+
+
+>FR989862.1 Biston betularia genome assembly, chromosome: Z
+Length=18795478
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  7         TTGTCAACTTGAGGGAGGGAGTA  29
+                 || ||||||||||||||||||||
+Sbjct  17413859  TTTTCAACTTGAGGGAGGGAGTA  17413881
+
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  7         TTGTCAACTTGAGGGAGGGAGTA  29
+                 || ||||||||||||||||||||
+Sbjct  17413859  TTTTCAACTTGAGGGAGGGAGTA  17413881
+
+
+Query= BRCA1_5182_insC_Design2
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033221305.1 PREDICTED: Trachypithecus francoisi breast canc...  46.4    0.014  100%        
+XM_033221297.1 PREDICTED: Trachypithecus francoisi breast canc...  46.4    0.014  100%        
+MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast ...  46.4    0.014  100%        
+CP034495.1 Eukaryotic synthetic construct chromosome 17            46.4    0.014  100%        
+KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ...  46.4    0.014  100%        
+CP068261.1 Homo sapiens isolate CHM13 chromosome 17                46.4    0.014  100%        
+AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete ge...  46.4    0.014  100%        
+NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), ...  46.4    0.014  100%        
+DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, ...  46.4    0.014  100%        
+DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1...  46.4    0.014  100%        
+DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene ...  46.4    0.014  100%        
+DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene ...  46.4    0.014  100%        
+DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1...  46.4    0.014  100%        
+DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1...  46.4    0.014  100%        
+AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds        46.4    0.014  100%        
+AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, c...  46.4    0.014  100%        
+L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; riboso...  46.4    0.014  100%        
+DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1...  46.4    0.014  100%        
+DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1...  46.4    0.014  100%        
+DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene ...  46.4    0.014  100%        
+AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susc...  46.4    0.014  100%        
+AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer sus...  46.4    0.014  100%        
+AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian can...  46.4    0.014  100%        
+AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian can...  46.4    0.014  100%        
+AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian can...  46.4    0.014  100%        
+AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian ca...  46.4    0.014  100%        
+AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian ca...  46.4    0.014  100%        
+AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian can...  46.4    0.014  100%        
+AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian can...  46.4    0.014  100%        
+AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian can...  46.4    0.014  100%        
+AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian can...  46.4    0.014  100%        
+AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) g...  46.4    0.014  100%        
+AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partia...  46.4    0.014  100%        
+AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence      46.4    0.014  100%        
+AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovar...  41.9    0.59   96%         
+AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian can...  41.9    0.59   96%         
+AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, c...  40.1    2.1    96%         
+AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susc...  40.1    2.1    96%         
+CP050574.1 Canis lupus familiaris breed Labrador retriever chr...  39.2    2.1    92%         
+CP050613.1 Canis lupus familiaris breed Labrador retriever chr...  39.2    2.1    92%         
+XM_026012437.1 PREDICTED: Vulpes vulpes elongin A (ELOA), mRNA     39.2    2.1    92%         
+XR_005423605.1 PREDICTED: Canis lupus familiaris elongin A (EL...  39.2    2.1    92%         
+XM_038659934.1 PREDICTED: Canis lupus familiaris elongin A (EL...  39.2    2.1    92%         
+XR_005317965.1 PREDICTED: Canis lupus familiaris elongin A (EL...  39.2    2.1    92%         
+XM_038463165.1 PREDICTED: Canis lupus familiaris elongin A (EL...  39.2    2.1    92%         
+NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitoc...  39.2    2.1    100%        
+LR877225.1 Acomys russatus genome assembly, chromosome: 14         39.2    2.1    100%        
+XR_004813619.1 PREDICTED: Canis lupus dingo elongin A (ELOA), ...  39.2    2.1    92%         
+XM_025447407.2 PREDICTED: Canis lupus dingo elongin A (ELOA), ...  39.2    2.1    92%         
+AC007073.2 Homo sapiens chromosome 4 clone C0310G15 map 4p16, ...  39.2    2.1    87%         
+XM_006862309.1 PREDICTED: Chrysochloris asiatica transcription...  38.3    7.2    96%         
+FR989881.1 Biston betularia genome assembly, chromosome: 19        38.3    7.2    96%         
+CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05       37.4    7.2    92%         
+LC368290.1 Homo sapiens E19_44 BRCA1 gene, partial sequence        37.4    7.2    100%        
+FR989864.1 Biston betularia genome assembly, chromosome: 2         37.4    7.2    92%         
+LR877230.1 Acomys russatus genome assembly, chromosome: 19         37.4    7.2    100%        
+
+ALIGNMENTS
+>XM_033221305.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X2, mRNA
+Length=5167
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAGC  28
+             |||||||||||||||||||||||||
+Sbjct  4854  TTTTTGTCAACTTGAGGGAGGGAGC  4830
+
+
+>XM_033221297.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X1, mRNA
+Length=5169
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAGC  28
+             |||||||||||||||||||||||||
+Sbjct  4857  TTTTTGTCAACTTGAGGGAGGGAGC  4833
+
+
+>MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast and ovarian 
+cancer susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAGC  971
+
+
+>CP034495.1 Eukaryotic synthetic construct chromosome 17
+ CP034520.1 Eukaryotic synthetic construct chromosome 17
+Length=88299790
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGC  28
+                 |||||||||||||||||||||||||
+Sbjct  41209039  TTTTTGTCAACTTGAGGGAGGGAGC  41209063
+
+
+>KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ovarian cancer 
+susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAGC  971
+
+
+>CP068261.1 Homo sapiens isolate CHM13 chromosome 17
+Length=84277185
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGC  28
+                 |||||||||||||||||||||||||
+Sbjct  43915863  TTTTTGTCAACTTGAGGGAGGGAGC  43915887
+
+
+>AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete genome
+Length=80688777
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGC  28
+                 |||||||||||||||||||||||||
+Sbjct  40813089  TTTTTGTCAACTTGAGGGAGGGAGC  40813113
+
+
+>NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene 
+(LRG_292) on chromosome 17
+Length=193689
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  160962  TTTTTGTCAACTTGAGGGAGGGAGC  160938
+
+
+>DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, partial cds; 
+neighbor of BRCA1 gene 2 (NBR2) gene, complete cds; and early 
+onset breast cancer 1 (BRCA1) gene, partial cds
+Length=150505
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  140536  TTTTTGTCAACTTGAGGGAGGGAGC  140512
+
+
+>DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; hypothetical protein LOC10230 (NBR2) gene, 
+complete cds; and breast cancer 1 early onset (BRCA1) gene, 
+partial cds
+Length=147576
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  137596  TTTTTGTCAACTTGAGGGAGGGAGC  137572
+
+
+>DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150669
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  137641  TTTTTGTCAACTTGAGGGAGGGAGC  137617
+
+
+>DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=155470
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  140204  TTTTTGTCAACTTGAGGGAGGGAGC  140180
+
+
+>DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150582
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  133060  TTTTTGTCAACTTGAGGGAGGGAGC  133036
+
+
+>DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156879
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  138904  TTTTTGTCAACTTGAGGGAGGGAGC  138880
+
+
+>AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds
+Length=80966
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGC  28
+              |||||||||||||||||||||||||
+Sbjct  69152  TTTTTGTCAACTTGAGGGAGGGAGC  69128
+
+
+>AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, complete cds
+Length=84982
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGC  28
+              |||||||||||||||||||||||||
+Sbjct  71685  TTTTTGTCAACTTGAGGGAGGGAGC  71661
+
+
+>L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; ribosomal protein 
+L21-like protein (rpL21) pseudogene, complete sequence; 
+Rho7 (Rho7) and VatI (VatI) genes, complete cds; and unknown 
+(ifp35) gene, exons 1 through 3 and partial cds
+Length=117143
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGC  28
+              |||||||||||||||||||||||||
+Sbjct  71711  TTTTTGTCAACTTGAGGGAGGGAGC  71687
+
+
+>DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156121
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  136542  TTTTTGTCAACTTGAGGGAGGGAGC  136518
+
+
+>DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=161765
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  136612  TTTTTGTCAACTTGAGGGAGGGAGC  136588
+
+
+>DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=167910
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  137488  TTTTTGTCAACTTGAGGGAGGGAGC  137464
+
+
+>AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=328
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAGC  171
+
+
+>AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=323
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAGC  172
+
+
+>AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=323
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAGC  172
+
+
+>AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=328
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  120  TTTTTGTCAACTTGAGGGAGGGAGC  96
+
+
+>AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=299
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  182  TTTTTGTCAACTTGAGGGAGGGAGC  158
+
+
+>AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=339
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  197  TTTTTGTCAACTTGAGGGAGGGAGC  173
+
+
+>AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian cancer susceptibility-like 
+protein (BRCA1) gene, partial sequence
+Length=335
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAGC  103
+
+
+>AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=337
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAGC  171
+
+
+>AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=335
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAGC  103
+
+
+>AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=319
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAGC  171
+
+
+>AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=284
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAGC  28
+           |||||||||||||||||||||||||
+Sbjct  76  TTTTTGTCAACTTGAGGGAGGGAGC  52
+
+
+>AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) gene, complete 
+cds
+Length=82899
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGC  28
+              |||||||||||||||||||||||||
+Sbjct  69355  TTTTTGTCAACTTGAGGGAGGGAGC  69331
+
+
+>AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partial cds
+Length=271
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            |||||||||||||||||||||||||
+Sbjct  194  TTTTTGTCAACTTGAGGGAGGGAGC  170
+
+
+>AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence
+Length=150472
+
+ Score = 46.4 bits (50),  Expect = 0.014
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGC  28
+               |||||||||||||||||||||||||
+Sbjct  102398  TTTTTGTCAACTTGAGGGAGGGAGC  102374
+
+
+>AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovarian cancer 
+susceptibility protein (BRCA1) gene, exon 20 and partial sequence
+Length=321
+
+ Score = 41.9 bits (45),  Expect = 0.59
+ Identities = 24/25 (96%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            ||||||||| |||||||||||||||
+Sbjct  113  TTTTTGTCACCTTGAGGGAGGGAGC  89
+
+
+>AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=333
+
+ Score = 41.9 bits (45),  Expect = 0.59
+ Identities = 24/25 (96%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGC  28
+            ||||||||| |||||||||||||||
+Sbjct  127  TTTTTGTCACCTTGAGGGAGGGAGC  103
+
+
+>AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, complete cds
+Length=83366
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              |||||||||||||||||||| |||
+Sbjct  71300  TTTTTGTCAACTTGAGGGAGAGAG  71277
+
+
+>AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=332
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 25/26 (96%), Gaps = 1/26 (4%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCA-ACTTGAGGGAGGGAGC  28
+            ||||||||| ||||||||||||||||
+Sbjct  124  TTTTTGTCACACTTGAGGGAGGGAGC  99
+
+
+>CP050574.1 Canis lupus familiaris breed Labrador retriever chromosome 02a
+Length=83829384
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGCCCA  31
+                 || |||||||| ||||||||||||||
+Sbjct  73847855  TTCGTCAACTTTAGGGAGGGAGCCCA  73847880
+
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGCCCA  31
+                 || |||||||| ||||||||||||||
+Sbjct  73847855  TTCGTCAACTTTAGGGAGGGAGCCCA  73847880
+
+
+>CP050613.1 Canis lupus familiaris breed Labrador retriever chromosome 02b
+Length=83851004
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGCCCA  31
+                 || |||||||| ||||||||||||||
+Sbjct  73872090  TTCGTCAACTTTAGGGAGGGAGCCCA  73872115
+
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGCCCA  31
+                 || |||||||| ||||||||||||||
+Sbjct  73872090  TTCGTCAACTTTAGGGAGGGAGCCCA  73872115
+
+
+>XM_026012437.1 PREDICTED: Vulpes vulpes elongin A (ELOA), mRNA
+Length=4410
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1248  TTCGTCAACTTTAGGGAGGGAGCCCA  1223
+
+
+>XR_005423605.1 PREDICTED: Canis lupus familiaris elongin A (ELOA), transcript 
+variant X1, misc_RNA
+Length=4111
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1268  TTCGTCAACTTTAGGGAGGGAGCCCA  1243
+
+
+>XM_038659934.1 PREDICTED: Canis lupus familiaris elongin A (ELOA), transcript 
+variant X2, mRNA
+Length=5014
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1268  TTCGTCAACTTTAGGGAGGGAGCCCA  1243
+
+
+>XR_005317965.1 PREDICTED: Canis lupus familiaris elongin A (ELOA), transcript 
+variant X1, misc_RNA
+Length=4111
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1268  TTCGTCAACTTTAGGGAGGGAGCCCA  1243
+
+
+>XM_038463165.1 PREDICTED: Canis lupus familiaris elongin A (ELOA), transcript 
+variant X2, mRNA
+Length=5009
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1268  TTCGTCAACTTTAGGGAGGGAGCCCA  1243
+
+
+>NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+ MT653609.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+Length=18038
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1    GGGTTTTTGTCAACTTGAGGG  21
+            |||||||||||||||||||||
+Sbjct  546  GGGTTTTTGTCAACTTGAGGG  526
+
+
+>LR877225.1 Acomys russatus genome assembly, chromosome: 14
+Length=62749011
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Plus
+
+Query  10        TCAACTTGAGGGAGGGAGCCC  30
+                 |||||||||||||||||||||
+Sbjct  55735252  TCAACTTGAGGGAGGGAGCCC  55735272
+
+
+>XR_004813619.1 PREDICTED: Canis lupus dingo elongin A (ELOA), transcript variant 
+X2, misc_RNA
+Length=4132
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1288  TTCGTCAACTTTAGGGAGGGAGCCCA  1263
+
+
+>XM_025447407.2 PREDICTED: Canis lupus dingo elongin A (ELOA), transcript variant 
+X1, mRNA
+Length=5020
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  6     TTTGTCAACTTGAGGGAGGGAGCCCA  31
+             || |||||||| ||||||||||||||
+Sbjct  1288  TTCGTCAACTTTAGGGAGGGAGCCCA  1263
+
+
+>AC007073.2 Homo sapiens chromosome 4 clone C0310G15 map 4p16, complete sequence
+Length=193772
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 27/31 (87%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  1      GGGTTTTTGTCAACTTGAGGGAGGGAGCCCA  31
+              || |||||||||||| |||||| ||||| ||
+Sbjct  81255  GGATTTTTGTCAACTGGAGGGATGGAGCTCA  81225
+
+
+Query= BRCA1_5182_insC_Design3
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033221305.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+XM_033221297.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast ...  44.6    0.048  100%        
+CP034495.1 Eukaryotic synthetic construct chromosome 17            44.6    0.048  100%        
+KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ...  44.6    0.048  100%        
+CP068261.1 Homo sapiens isolate CHM13 chromosome 17                44.6    0.048  100%        
+AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete ge...  44.6    0.048  100%        
+NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), ...  44.6    0.048  100%        
+DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, ...  44.6    0.048  100%        
+DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds        44.6    0.048  100%        
+AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, c...  44.6    0.048  100%        
+L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; riboso...  44.6    0.048  100%        
+DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susc...  44.6    0.048  100%        
+AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer sus...  44.6    0.048  100%        
+AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian can...  44.6    0.048  100%        
+AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian can...  44.6    0.048  100%        
+AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian can...  44.6    0.048  100%        
+AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian ca...  44.6    0.048  100%        
+AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian ca...  44.6    0.048  100%        
+AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian can...  44.6    0.048  100%        
+AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian can...  44.6    0.048  100%        
+AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian can...  44.6    0.048  100%        
+AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian can...  44.6    0.048  100%        
+AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) g...  44.6    0.048  100%        
+AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partia...  44.6    0.048  100%        
+AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence      44.6    0.048  100%        
+AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, c...  40.1    2.1    96%         
+AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovar...  40.1    2.1    96%         
+AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian can...  40.1    2.1    96%         
+XM_019856856.1 PREDICTED: Hippocampus comes solute carrier fam...  39.2    2.1    92%         
+NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitoc...  39.2    2.1    100%        
+LR584441.1 Salmo trutta genome assembly, chromosome: 12            38.3    7.2    96%         
+OE944952.1 5_Tge_b3v08                                             38.3    7.2    96%         
+OE000392.1 4_Tte_b3v08                                             38.3    7.2    96%         
+AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susc...  38.3    7.2    96%         
+XM_033880094.1 PREDICTED: Pecten maximus zinc finger protein D...  37.4    7.2    92%         
+LR738557.1 Neostethus bicornis genome assembly, chromosome: 5      37.4    7.2    92%         
+LR736838.1 Pecten maximus genome assembly, chromosome: 1           37.4    7.2    92%         
+CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05       37.4    7.2    92%         
+LR877230.1 Acomys russatus genome assembly, chromosome: 19         37.4    7.2    100%        
+
+ALIGNMENTS
+>XM_033221305.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X2, mRNA
+Length=5167
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4854  TTTTTGTCAACTTGAGGGAGGGAG  4831
+
+
+>XM_033221297.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X1, mRNA
+Length=5169
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4857  TTTTTGTCAACTTGAGGGAGGGAG  4834
+
+
+>MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast and ovarian 
+cancer susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP034495.1 Eukaryotic synthetic construct chromosome 17
+ CP034520.1 Eukaryotic synthetic construct chromosome 17
+Length=88299790
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  41209039  TTTTTGTCAACTTGAGGGAGGGAG  41209062
+
+
+>KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ovarian cancer 
+susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP068261.1 Homo sapiens isolate CHM13 chromosome 17
+Length=84277185
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  43915863  TTTTTGTCAACTTGAGGGAGGGAG  43915886
+
+
+>AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete genome
+Length=80688777
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  40813089  TTTTTGTCAACTTGAGGGAGGGAG  40813112
+
+
+>NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene 
+(LRG_292) on chromosome 17
+Length=193689
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  160962  TTTTTGTCAACTTGAGGGAGGGAG  160939
+
+
+>DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, partial cds; 
+neighbor of BRCA1 gene 2 (NBR2) gene, complete cds; and early 
+onset breast cancer 1 (BRCA1) gene, partial cds
+Length=150505
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140536  TTTTTGTCAACTTGAGGGAGGGAG  140513
+
+
+>DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; hypothetical protein LOC10230 (NBR2) gene, 
+complete cds; and breast cancer 1 early onset (BRCA1) gene, 
+partial cds
+Length=147576
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137596  TTTTTGTCAACTTGAGGGAGGGAG  137573
+
+
+>DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150669
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137641  TTTTTGTCAACTTGAGGGAGGGAG  137618
+
+
+>DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=155470
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140204  TTTTTGTCAACTTGAGGGAGGGAG  140181
+
+
+>DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150582
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  133060  TTTTTGTCAACTTGAGGGAGGGAG  133037
+
+
+>DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156879
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  138904  TTTTTGTCAACTTGAGGGAGGGAG  138881
+
+
+>AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds
+Length=80966
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69152  TTTTTGTCAACTTGAGGGAGGGAG  69129
+
+
+>AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, complete cds
+Length=84982
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71685  TTTTTGTCAACTTGAGGGAGGGAG  71662
+
+
+>L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; ribosomal protein 
+L21-like protein (rpL21) pseudogene, complete sequence; 
+Rho7 (Rho7) and VatI (VatI) genes, complete cds; and unknown 
+(ifp35) gene, exons 1 through 3 and partial cds
+Length=117143
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71711  TTTTTGTCAACTTGAGGGAGGGAG  71688
+
+
+>DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156121
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136542  TTTTTGTCAACTTGAGGGAGGGAG  136519
+
+
+>DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=161765
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136612  TTTTTGTCAACTTGAGGGAGGGAG  136589
+
+
+>DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=167910
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137488  TTTTTGTCAACTTGAGGGAGGGAG  137465
+
+
+>AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  120  TTTTTGTCAACTTGAGGGAGGGAG  97
+
+
+>AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=299
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  182  TTTTTGTCAACTTGAGGGAGGGAG  159
+
+
+>AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=339
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  197  TTTTTGTCAACTTGAGGGAGGGAG  174
+
+
+>AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian cancer susceptibility-like 
+protein (BRCA1) gene, partial sequence
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=337
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=319
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=284
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAG  27
+           ||||||||||||||||||||||||
+Sbjct  76  TTTTTGTCAACTTGAGGGAGGGAG  53
+
+
+>AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) gene, complete 
+cds
+Length=82899
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69355  TTTTTGTCAACTTGAGGGAGGGAG  69332
+
+
+>AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partial cds
+Length=271
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  194  TTTTTGTCAACTTGAGGGAGGGAG  171
+
+
+>AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence
+Length=150472
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  102398  TTTTTGTCAACTTGAGGGAGGGAG  102375
+
+
+>AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, complete cds
+Length=83366
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              |||||||||||||||||||| |||
+Sbjct  71300  TTTTTGTCAACTTGAGGGAGAGAG  71277
+
+
+>AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovarian cancer 
+susceptibility protein (BRCA1) gene, exon 20 and partial sequence
+Length=321
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  113  TTTTTGTCACCTTGAGGGAGGGAG  90
+
+
+>AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=333
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  127  TTTTTGTCACCTTGAGGGAGGGAG  104
+
+
+>XM_019856856.1 PREDICTED: Hippocampus comes solute carrier family 25 member 
+42 (slc25a42), mRNA
+Length=3954
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  7   TTGTCAACTTGAGGGAGGGAGGTACG  32
+           |||||||||||| ||||||||| |||
+Sbjct  45  TTGTCAACTTGACGGAGGGAGGGACG  70
+
+
+>NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+ MT653609.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+Length=18038
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1    GGGTTTTTGTCAACTTGAGGG  21
+            |||||||||||||||||||||
+Sbjct  546  GGGTTTTTGTCAACTTGAGGG  526
+
+
+>LR584441.1 Salmo trutta genome assembly, chromosome: 12
+Length=97529106
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  8         TGTCAACTTGAGGGAGGGAGGTA  30
+                 |||||||||||| ||||||||||
+Sbjct  35345573  TGTCAACTTGAGAGAGGGAGGTA  35345595
+
+
+>OE944952.1 5_Tge_b3v08
+Length=314
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  6    TTTGTCAACTTGAGGGAGGGAGG  28
+            ||| |||||||||||||||||||
+Sbjct  303  TTTTTCAACTTGAGGGAGGGAGG  281
+
+
+>OE000392.1 4_Tte_b3v08
+Length=322154
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  6       TTTGTCAACTTGAGGGAGGGAGG  28
+               ||| |||||||||||||||||||
+Sbjct  148337  TTTTTCAACTTGAGGGAGGGAGG  148359
+
+
+>AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=332
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 24/25 (96%), Gaps = 1/25 (4%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCA-ACTTGAGGGAGGGAG  27
+            ||||||||| |||||||||||||||
+Sbjct  124  TTTTTGTCACACTTGAGGGAGGGAG  100
+
+
+>XM_033880094.1 PREDICTED: Pecten maximus zinc finger protein DPF3-like (LOC117324305), 
+mRNA
+Length=2042
+
+ Score = 37.4 bits (40),  Expect = 7.2
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTAC  31
+             |||||||||||||||||| | ||||
+Sbjct  1690  TTGTCAACTTGAGGGAGGAACGTAC  1714
+
+
+>LR738557.1 Neostethus bicornis genome assembly, chromosome: 5
+Length=25153120
+
+ Score = 37.4 bits (40),  Expect = 7.2
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGG  28
+                 ||||||||||| |||||||||| ||
+Sbjct  22587329  TTTTTGTCAACCTGAGGGAGGGGGG  22587353
+
+
+>LR736838.1 Pecten maximus genome assembly, chromosome: 1
+Length=60076705
+
+ Score = 37.4 bits (40),  Expect = 7.2
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  7        TTGTCAACTTGAGGGAGGGAGGTAC  31
+                |||||||||||||||||| | ||||
+Sbjct  9458821  TTGTCAACTTGAGGGAGGAACGTAC  9458845
+
+
+>CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05
+Length=56796726
+
+ Score = 37.4 bits (40),  Expect = 7.2
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  2         GGTTTTTGTCAACTTGAGGGAGGGA  26
+                 |||||||||||| |||||||| |||
+Sbjct  43884510  GGTTTTTGTCAATTTGAGGGAAGGA  43884486
+
+
+>LR877230.1 Acomys russatus genome assembly, chromosome: 19
+Length=66025038
+
+ Score = 37.4 bits (40),  Expect = 7.2
+ Identities = 20/20 (100%), Gaps = 0/20 (0%)
+ Strand=Plus/Plus
+
+Query  1        GGGTTTTTGTCAACTTGAGG  20
+                ||||||||||||||||||||
+Sbjct  3208350  GGGTTTTTGTCAACTTGAGG  3208369
+
+
+Query= BRCA1_5182_insC_Design4
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033221305.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+XM_033221297.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast ...  44.6    0.048  100%        
+CP034495.1 Eukaryotic synthetic construct chromosome 17            44.6    0.048  100%        
+KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ...  44.6    0.048  100%        
+CP068261.1 Homo sapiens isolate CHM13 chromosome 17                44.6    0.048  100%        
+AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete ge...  44.6    0.048  100%        
+NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), ...  44.6    0.048  100%        
+DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, ...  44.6    0.048  100%        
+DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds        44.6    0.048  100%        
+AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, c...  44.6    0.048  100%        
+L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; riboso...  44.6    0.048  100%        
+DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susc...  44.6    0.048  100%        
+AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer sus...  44.6    0.048  100%        
+AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian can...  44.6    0.048  100%        
+AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian can...  44.6    0.048  100%        
+AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian can...  44.6    0.048  100%        
+AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian ca...  44.6    0.048  100%        
+AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian ca...  44.6    0.048  100%        
+AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian can...  44.6    0.048  100%        
+AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian can...  44.6    0.048  100%        
+AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian can...  44.6    0.048  100%        
+AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian can...  44.6    0.048  100%        
+AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) g...  44.6    0.048  100%        
+AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partia...  44.6    0.048  100%        
+AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence      44.6    0.048  100%        
+XM_016685660.1 PREDICTED: Capsicum annuum glyoxylate/succinic ...  41.9    0.59   90%         
+OE181007.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OE495982.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OE494242.1 2_Tcm_b3v08                                             41.0    0.59   93%         
+OD001166.1 1_Tps_b3v08                                             41.0    0.59   93%         
+OC002832.1 2_Tsi_b3v08                                             41.0    0.59   93%         
+OA564806.1 1_Tdi_b3v08                                             41.0    0.59   93%         
+AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, c...  40.1    2.1    96%         
+AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovar...  40.1    2.1    96%         
+AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian can...  40.1    2.1    96%         
+CP034499.1 Eukaryotic synthetic construct chromosome 20            39.2    2.1    87%         
+CP068258.1 Homo sapiens isolate CHM13 chromosome 20                39.2    2.1    87%         
+NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitoc...  39.2    2.1    100%        
+AL162294.8 Human DNA sequence from clone RP5-852L11 on chromos...  39.2    2.1    87%         
+CP050587.1 Canis lupus familiaris breed Labrador retriever chr...  38.3    7.2    96%         
+CP050645.1 Canis lupus familiaris breed Labrador retriever chr...  38.3    7.2    96%         
+CP034492.1 Eukaryotic synthetic construct chromosome 14            38.3    7.2    96%         
+FR989862.1 Biston betularia genome assembly, chromosome: Z         38.3    7.2    96%         
+HG994419.1 Canis lupus genome assembly, chromosome: 35             38.3    7.2    96%         
+AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susc...  38.3    7.2    96%         
+AL450442.2 Human chromosome 14 DNA sequence BAC R-214N1 of lib...  38.3    7.2    96%         
+AL442163.5 Human chromosome 14 DNA sequence BAC R-90P16 of lib...  38.3    7.2    96%         
+LR738418.1 Lutra lutra genome assembly, chromosome: 16             37.4    7.2    92%         
+LR738552.1 Neostethus bicornis genome assembly, chromosome: 22     37.4    7.2    92%         
+CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05       37.4    7.2    92%         
+CP023118.1 Lupinus angustifolius cultivar Tanjil chromosome LG-06  37.4    7.2    92%         
+LR990918.1 Pararge aegeria genome assembly, chromosome: 27         37.4    7.2    92%         
+LR899876.1 Darwinula stevensoni                                    37.4    7.2    100%        
+LR877230.1 Acomys russatus genome assembly, chromosome: 19         37.4    7.2    100%        
+LR812564.1 Danio rerio strain Cooch Behar (CB) genome assembly...  37.4    7.2    88%         
+AC102429.11 Mus musculus chromosome 18, clone RP24-93K11, comp...  37.4    7.2    100%        
+AC105333.16 Mus musculus chromosome 18, clone RP23-259G13, com...  37.4    7.2    100%        
+
+ALIGNMENTS
+>XM_033221305.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X2, mRNA
+Length=5167
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4854  TTTTTGTCAACTTGAGGGAGGGAG  4831
+
+
+>XM_033221297.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X1, mRNA
+Length=5169
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4857  TTTTTGTCAACTTGAGGGAGGGAG  4834
+
+
+>MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast and ovarian 
+cancer susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP034495.1 Eukaryotic synthetic construct chromosome 17
+ CP034520.1 Eukaryotic synthetic construct chromosome 17
+Length=88299790
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  41209039  TTTTTGTCAACTTGAGGGAGGGAG  41209062
+
+
+>KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ovarian cancer 
+susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP068261.1 Homo sapiens isolate CHM13 chromosome 17
+Length=84277185
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  43915863  TTTTTGTCAACTTGAGGGAGGGAG  43915886
+
+
+>AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete genome
+Length=80688777
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  40813089  TTTTTGTCAACTTGAGGGAGGGAG  40813112
+
+
+>NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene 
+(LRG_292) on chromosome 17
+Length=193689
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  160962  TTTTTGTCAACTTGAGGGAGGGAG  160939
+
+
+>DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, partial cds; 
+neighbor of BRCA1 gene 2 (NBR2) gene, complete cds; and early 
+onset breast cancer 1 (BRCA1) gene, partial cds
+Length=150505
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140536  TTTTTGTCAACTTGAGGGAGGGAG  140513
+
+
+>DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; hypothetical protein LOC10230 (NBR2) gene, 
+complete cds; and breast cancer 1 early onset (BRCA1) gene, 
+partial cds
+Length=147576
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137596  TTTTTGTCAACTTGAGGGAGGGAG  137573
+
+
+>DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150669
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137641  TTTTTGTCAACTTGAGGGAGGGAG  137618
+
+
+>DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=155470
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140204  TTTTTGTCAACTTGAGGGAGGGAG  140181
+
+
+>DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150582
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  133060  TTTTTGTCAACTTGAGGGAGGGAG  133037
+
+
+>DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156879
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  138904  TTTTTGTCAACTTGAGGGAGGGAG  138881
+
+
+>AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds
+Length=80966
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69152  TTTTTGTCAACTTGAGGGAGGGAG  69129
+
+
+>AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, complete cds
+Length=84982
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71685  TTTTTGTCAACTTGAGGGAGGGAG  71662
+
+
+>L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; ribosomal protein 
+L21-like protein (rpL21) pseudogene, complete sequence; 
+Rho7 (Rho7) and VatI (VatI) genes, complete cds; and unknown 
+(ifp35) gene, exons 1 through 3 and partial cds
+Length=117143
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71711  TTTTTGTCAACTTGAGGGAGGGAG  71688
+
+
+>DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156121
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136542  TTTTTGTCAACTTGAGGGAGGGAG  136519
+
+
+>DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=161765
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136612  TTTTTGTCAACTTGAGGGAGGGAG  136589
+
+
+>DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=167910
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137488  TTTTTGTCAACTTGAGGGAGGGAG  137465
+
+
+>AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  120  TTTTTGTCAACTTGAGGGAGGGAG  97
+
+
+>AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=299
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  182  TTTTTGTCAACTTGAGGGAGGGAG  159
+
+
+>AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=339
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  197  TTTTTGTCAACTTGAGGGAGGGAG  174
+
+
+>AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian cancer susceptibility-like 
+protein (BRCA1) gene, partial sequence
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=337
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=319
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=284
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAG  27
+           ||||||||||||||||||||||||
+Sbjct  76  TTTTTGTCAACTTGAGGGAGGGAG  53
+
+
+>AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) gene, complete 
+cds
+Length=82899
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69355  TTTTTGTCAACTTGAGGGAGGGAG  69332
+
+
+>AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partial cds
+Length=271
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  194  TTTTTGTCAACTTGAGGGAGGGAG  171
+
+
+>AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence
+Length=150472
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  102398  TTTTTGTCAACTTGAGGGAGGGAG  102375
+
+
+>XM_016685660.1 PREDICTED: Capsicum annuum glyoxylate/succinic semialdehyde reductase 
+1 (LOC107841810), mRNA
+Length=1414
+
+ Score = 41.9 bits (45),  Expect = 0.59
+ Identities = 27/30 (90%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAGTAATAA  33
+           ||||||| || | |||||||||||||||||
+Sbjct  10  TTTTTGTTAAATGGAGGGAGGGAGTAATAA  39
+
+
+>OE181007.1 2_Tcm_b3v08
+Length=121235
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  48617  TTTTTGTCAACTTTAGGGTGGGAGTAA  48643
+
+
+>OE495982.1 2_Tcm_b3v08
+Length=390
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+            ||||||||||||| |||| ||||||||
+Sbjct  146  TTTTTGTCAACTTTAGGGTGGGAGTAA  120
+
+
+>OE494242.1 2_Tcm_b3v08
+Length=391
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+            ||||||||||||| |||| ||||||||
+Sbjct  246  TTTTTGTCAACTTTAGGGTGGGAGTAA  272
+
+
+>OD001166.1 1_Tps_b3v08
+Length=131083
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  69845  TTTTTGTCAACTTTAGGGTGGGAGTAA  69871
+
+
+>OC002832.1 2_Tsi_b3v08
+Length=102391
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+              ||||||||||||| |||| ||||||||
+Sbjct  52508  TTTTTGTCAACTTTAGGGTGGGAGTAA  52534
+
+
+>OA564806.1 1_Tdi_b3v08
+Length=259330
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAGTAA  30
+               ||||||||||||| |||| ||||||||
+Sbjct  140060  TTTTTGTCAACTTTAGGGTGGGAGTAA  140086
+
+
+>AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, complete cds
+Length=83366
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              |||||||||||||||||||| |||
+Sbjct  71300  TTTTTGTCAACTTGAGGGAGAGAG  71277
+
+
+>AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovarian cancer 
+susceptibility protein (BRCA1) gene, exon 20 and partial sequence
+Length=321
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  113  TTTTTGTCACCTTGAGGGAGGGAG  90
+
+
+>AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=333
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  127  TTTTTGTCACCTTGAGGGAGGGAG  104
+
+
+>CP034499.1 Eukaryotic synthetic construct chromosome 20
+ CP034524.1 Eukaryotic synthetic construct chromosome 20
+Length=68480253
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 27/31 (87%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  3         GTTTTTGTCAACTTGAGGGAGGGAGTAATAA  33
+                 ||||||||||  || ||||||||||| ||||
+Sbjct  53524833  GTTTTTGTCATATTCAGGGAGGGAGTGATAA  53524803
+
+
+>CP068258.1 Homo sapiens isolate CHM13 chromosome 20
+Length=66210247
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 27/31 (87%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  3         GTTTTTGTCAACTTGAGGGAGGGAGTAATAA  33
+                 ||||||||||  || ||||||||||| ||||
+Sbjct  56743011  GTTTTTGTCATATTCAGGGAGGGAGTGATAA  56742981
+
+
+>NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+ MT653609.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+Length=18038
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1    GGGTTTTTGTCAACTTGAGGG  21
+            |||||||||||||||||||||
+Sbjct  546  GGGTTTTTGTCAACTTGAGGG  526
+
+
+>AL162294.8 Human DNA sequence from clone RP5-852L11 on chromosome 20, complete 
+sequence
+Length=61147
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 27/31 (87%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTTTGTCAACTTGAGGGAGGGAGTAATAA  33
+             ||||||||||  || ||||||||||| ||||
+Sbjct  3309  GTTTTTGTCATATTCAGGGAGGGAGTGATAA  3279
+
+
+>CP050587.1 Canis lupus familiaris breed Labrador retriever chromosome 35a
+Length=26577597
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236711  TTGTCAACTTGAGGCAGGGAGTA  236689
+
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236711  TTGTCAACTTGAGGCAGGGAGTA  236689
+
+
+>CP050645.1 Canis lupus familiaris breed Labrador retriever chromosome 35b
+Length=26531362
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236714  TTGTCAACTTGAGGCAGGGAGTA  236692
+
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  7       TTGTCAACTTGAGGGAGGGAGTA  29
+               |||||||||||||| ||||||||
+Sbjct  236714  TTGTCAACTTGAGGCAGGGAGTA  236692
+
+
+Query= BRCA1_5182_insC_Design5
+
+Length=33
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_033221305.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+XM_033221297.1 PREDICTED: Trachypithecus francoisi breast canc...  44.6    0.048  100%        
+MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast ...  44.6    0.048  100%        
+CP034495.1 Eukaryotic synthetic construct chromosome 17            44.6    0.048  100%        
+KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ...  44.6    0.048  100%        
+CP068261.1 Homo sapiens isolate CHM13 chromosome 17                44.6    0.048  100%        
+AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete ge...  44.6    0.048  100%        
+NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), ...  44.6    0.048  100%        
+DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, ...  44.6    0.048  100%        
+DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds        44.6    0.048  100%        
+AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, c...  44.6    0.048  100%        
+L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; riboso...  44.6    0.048  100%        
+DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1...  44.6    0.048  100%        
+DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene ...  44.6    0.048  100%        
+AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susc...  44.6    0.048  100%        
+AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer sus...  44.6    0.048  100%        
+AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian can...  44.6    0.048  100%        
+AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian can...  44.6    0.048  100%        
+AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian can...  44.6    0.048  100%        
+AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian ca...  44.6    0.048  100%        
+AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian ca...  44.6    0.048  100%        
+AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian can...  44.6    0.048  100%        
+AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian can...  44.6    0.048  100%        
+AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian can...  44.6    0.048  100%        
+AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian can...  44.6    0.048  100%        
+AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) g...  44.6    0.048  100%        
+AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partia...  44.6    0.048  100%        
+AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence      44.6    0.048  100%        
+CP062046.1 Macrobrachium nipponense isolate FS-2020 chromosome 35  41.0    0.59   93%         
+XM_004697820.1 PREDICTED: Echinops telfairi fibronectin leucin...  40.1    2.1    90%         
+AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, c...  40.1    2.1    96%         
+AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovar...  40.1    2.1    96%         
+AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian can...  40.1    2.1    96%         
+XM_032871318.1 PREDICTED: Lontra canadensis prohibitin (PHB), ...  39.2    2.1    92%         
+XM_032321469.1 PREDICTED: Mustela erminea prohibitin (PHB), tr...  39.2    2.1    92%         
+XM_032321468.1 PREDICTED: Mustela erminea prohibitin (PHB), tr...  39.2    2.1    92%         
+LR584403.1 Rhinatrema bivittatum genome assembly, chromosome: 17   39.2    2.1    87%         
+XM_004764785.2 PREDICTED: Mustela putorius furo prohibitin (PH...  39.2    2.1    92%         
+XM_004764786.1 PREDICTED: Mustela putorius furo prohibitin (PH...  39.2    2.1    92%         
+NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitoc...  39.2    2.1    100%        
+LR738557.1 Neostethus bicornis genome assembly, chromosome: 5      38.3    7.2    90%         
+LR594557.1 Streptopelia turtur genome assembly, chromosome: 7      38.3    7.2    88%         
+CP018162.1 Oryza sativa Indica Group cultivar Shuhui498 chromo...  38.3    7.2    89%         
+AP014962.1 Oryza sativa Japonica Group DNA, chromosome 6, cult...  38.3    7.2    89%         
+CP012614.1 Oryza sativa Indica Group cultivar RP Bio-226 chrom...  38.3    7.2    89%         
+OE184192.1 2_Tcm_b3v08                                             38.3    7.2    89%         
+OE944952.1 5_Tge_b3v08                                             38.3    7.2    96%         
+CP056057.1 Oryza sativa Indica Group cultivar Zhenshan 97 chro...  38.3    7.2    89%         
+CP054681.1 Oryza sativa Indica Group cultivar Minghui 63 chrom...  38.3    7.2    89%         
+OE000392.1 4_Tte_b3v08                                             38.3    7.2    96%         
+OC002893.1 2_Tsi_b3v08                                             38.3    7.2    89%         
+LR899876.1 Darwinula stevensoni                                    38.3    7.2    96%         
+LR877210.1 Onychomys torridus genome assembly, chromosome: 23      38.3    7.2    96%         
+AF507077.1 Homo sapiens IRCHS6A breast and ovarian cancer susc...  38.3    7.2    96%         
+AP003615.3 Oryza sativa Japonica Group genomic DNA, chromosome...  38.3    7.2    89%         
+LR735560.1 Sarcophilus harrisii genome assembly, chromosome: X     37.4    7.2    100%        
+CP032557.1 Gossypium raimondii isolate D5-4 chromosome D5_05       37.4    7.2    92%         
+LT972193.1 Larimichthys crocea genome assembly, chromosome: IV     37.4    7.2    100%        
+XM_022541124.1 Aspergillus glaucus CBS 516.65 hypothetical pro...  37.4    7.2    93%         
+XM_020961719.1 PREDICTED: Drosophila serrata protein Skeletor,...  37.4    7.2    100%        
+XM_020961718.1 PREDICTED: Drosophila serrata protein Skeletor,...  37.4    7.2    100%        
+LK065234.1 Apteryx australis mantelli genome assembly AptMant0...  37.4    7.2    87%         
+OE386729.1 2_Tcm_b3v08                                             37.4    7.2    92%         
+XM_037205199.1 PREDICTED: Peromyscus leucopus ITPRIP like 1 (I...  37.4    7.2    92%         
+LR877233.1 Acomys russatus genome assembly, chromosome: 22         37.4    7.2    100%        
+LR877230.1 Acomys russatus genome assembly, chromosome: 19         37.4    7.2    100%        
+CR690643.2 Tetraodon nigroviridis full-length cDNA                 37.4    7.2    100%        
+
+ALIGNMENTS
+>XM_033221305.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X2, mRNA
+Length=5167
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4854  TTTTTGTCAACTTGAGGGAGGGAG  4831
+
+
+>XM_033221297.1 PREDICTED: Trachypithecus francoisi breast cancer type 1 susceptibility 
+protein homolog (LOC117089756), transcript variant 
+X1, mRNA
+Length=5169
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4     TTTTTGTCAACTTGAGGGAGGGAG  27
+             ||||||||||||||||||||||||
+Sbjct  4857  TTTTTGTCAACTTGAGGGAGGGAG  4834
+
+
+>MG494341.1 Homo sapiens isolate KWH-0123-0-1 truncated breast and ovarian 
+cancer susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP034495.1 Eukaryotic synthetic construct chromosome 17
+ CP034520.1 Eukaryotic synthetic construct chromosome 17
+Length=88299790
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  41209039  TTTTTGTCAACTTGAGGGAGGGAG  41209062
+
+
+>KJ625177.1 Homo sapiens isolate TWH16301 truncated breast and ovarian cancer 
+susceptibility protein 1 (BRCA1) gene, partial cds
+Length=1033
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  995  TTTTTGTCAACTTGAGGGAGGGAG  972
+
+
+>CP068261.1 Homo sapiens isolate CHM13 chromosome 17
+Length=84277185
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  43915863  TTTTTGTCAACTTGAGGGAGGGAG  43915886
+
+
+>AP023477.1 Homo sapiens DNA, chromosome 17, nearly complete genome
+Length=80688777
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAG  27
+                 ||||||||||||||||||||||||
+Sbjct  40813089  TTTTTGTCAACTTGAGGGAGGGAG  40813112
+
+
+>NG_005905.2 Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene 
+(LRG_292) on chromosome 17
+Length=193689
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  160962  TTTTTGTCAACTTGAGGGAGGGAG  160939
+
+
+>DQ478408.1 Homo sapiens neighbor of BRCA1 gene 1 (NBR1) gene, partial cds; 
+neighbor of BRCA1 gene 2 (NBR2) gene, complete cds; and early 
+onset breast cancer 1 (BRCA1) gene, partial cds
+Length=150505
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140536  TTTTTGTCAACTTGAGGGAGGGAG  140513
+
+
+>DQ190457.1 Homo sapiens clone mck41_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; hypothetical protein LOC10230 (NBR2) gene, 
+complete cds; and breast cancer 1 early onset (BRCA1) gene, 
+partial cds
+Length=147576
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137596  TTTTTGTCAACTTGAGGGAGGGAG  137573
+
+
+>DQ190456.1 Homo sapiens clone mck578_U neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150669
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137641  TTTTTGTCAACTTGAGGGAGGGAG  137618
+
+
+>DQ190455.1 Homo sapiens clone mck554_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=155470
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  140204  TTTTTGTCAACTTGAGGGAGGGAG  140181
+
+
+>DQ190454.1 Homo sapiens clone mck43_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=150582
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  133060  TTTTTGTCAACTTGAGGGAGGGAG  133037
+
+
+>DQ190453.1 Homo sapiens clone mck55_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156879
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  138904  TTTTTGTCAACTTGAGGGAGGGAG  138881
+
+
+>AY365046.1 Pan troglodytes BRCA1 (BRCA1) gene, complete cds
+Length=80966
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69152  TTTTTGTCAACTTGAGGGAGGGAG  69129
+
+
+>AY589041.1 Macaca mulatta breast cancer type 1 (BRCA1) gene, complete cds
+Length=84982
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71685  TTTTTGTCAACTTGAGGGAGGGAG  71662
+
+
+>L78833.1 Homo sapiens BRCA1 (BRCA1) gene, complete cds; ribosomal protein 
+L21-like protein (rpL21) pseudogene, complete sequence; 
+Rho7 (Rho7) and VatI (VatI) genes, complete cds; and unknown 
+(ifp35) gene, exons 1 through 3 and partial cds
+Length=117143
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  71711  TTTTTGTCAACTTGAGGGAGGGAG  71688
+
+
+>DQ190452.1 Homo sapiens clone mck94_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=156121
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136542  TTTTTGTCAACTTGAGGGAGGGAG  136519
+
+
+>DQ190451.1 Homo sapiens clone mck47_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=161765
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  136612  TTTTTGTCAACTTGAGGGAGGGAG  136589
+
+
+>DQ190450.1 Homo sapiens clone mck432_A neighbor of BRCA1 gene 1 (NBR1) gene, 
+partial cds; and hypothetical protein LOC10230 (NBR2) and 
+breast cancer 1 early onset (BRCA1) genes, complete cds
+Length=167910
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  137488  TTTTTGTCAACTTGAGGGAGGGAG  137465
+
+
+>AF507078.1 Homo sapiens IRCHS6B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AF507076.1 Homo sapiens IRCHS11B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, exon 20 and partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093493.1 Homo sapiens isolate IRCHS4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=323
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  196  TTTTTGTCAACTTGAGGGAGGGAG  173
+
+
+>AY093492.1 Homo sapiens isolate IRCHS4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=328
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  120  TTTTTGTCAACTTGAGGGAGGGAG  97
+
+
+>AY093491.1 Homo sapiens isolate IRCHF4B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=299
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  182  TTTTTGTCAACTTGAGGGAGGGAG  159
+
+
+>AY093489.1 Homo sapiens isolate IRCHS16B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=339
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  197  TTTTTGTCAACTTGAGGGAGGGAG  174
+
+
+>AY093488.1 Homo sapiens isolate IRCHS16A breast and ovarian cancer susceptibility-like 
+protein (BRCA1) gene, partial sequence
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093487.1 Homo sapiens isolate IRCHS7B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=337
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093486.1 Homo sapiens isolate IRCHS7A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=335
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  127  TTTTTGTCAACTTGAGGGAGGGAG  104
+
+
+>AY093485.1 Homo sapiens isolate IRCHS8B breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=319
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  195  TTTTTGTCAACTTGAGGGAGGGAG  172
+
+
+>AY093484.1 Homo sapiens isolate IRCHS8A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=284
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTTTTGTCAACTTGAGGGAGGGAG  27
+           ||||||||||||||||||||||||
+Sbjct  76  TTTTTGTCAACTTGAGGGAGGGAG  53
+
+
+>AY273801.1 Homo sapiens breast cancer 1, early onset (BRCA1) gene, complete 
+cds
+Length=82899
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              ||||||||||||||||||||||||
+Sbjct  69355  TTTTTGTCAACTTGAGGGAGGGAG  69332
+
+
+>AF284812.1 Homo sapiens BRCAI (BRCA1) gene, exon 20 and partial cds
+Length=271
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||||||||||||||||||
+Sbjct  194  TTTTTGTCAACTTGAGGGAGGGAG  171
+
+
+>AC135721.4 Homo sapiens, clone CTD-3199J23, complete sequence
+Length=150472
+
+ Score = 44.6 bits (48),  Expect = 0.048
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4       TTTTTGTCAACTTGAGGGAGGGAG  27
+               ||||||||||||||||||||||||
+Sbjct  102398  TTTTTGTCAACTTGAGGGAGGGAG  102375
+
+
+>CP062046.1 Macrobrachium nipponense isolate FS-2020 chromosome 35
+Length=67553775
+
+ Score = 41.0 bits (44),  Expect = 0.59
+ Identities = 25/27 (93%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  6         TTTGTCAACTTGAGGGAGGGAGGTGGA  32
+                 ||| || ||||||||||||||||||||
+Sbjct  48114069  TTTCTCGACTTGAGGGAGGGAGGTGGA  48114043
+
+
+>XM_004697820.1 PREDICTED: Echinops telfairi fibronectin leucine rich transmembrane 
+protein 3 (FLRT3), mRNA
+Length=3660
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 26/29 (90%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTTTGTCAACTTGAGGGAGGGAGGTGG  31
+             |||||| | ||| ||||||||||||||||
+Sbjct  2159  GTTTTTATAAACCTGAGGGAGGGAGGTGG  2187
+
+
+>AY589040.1 Pongo pygmaeus breast cancer type 1 (BRCA1) gene, complete cds
+Length=83366
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4      TTTTTGTCAACTTGAGGGAGGGAG  27
+              |||||||||||||||||||| |||
+Sbjct  71300  TTTTTGTCAACTTGAGGGAGAGAG  71277
+
+
+>AF507075.1 Homo sapiens IRCHS11A nonfunctional breast and ovarian cancer 
+susceptibility protein (BRCA1) gene, exon 20 and partial sequence
+Length=321
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  113  TTTTTGTCACCTTGAGGGAGGGAG  90
+
+
+>AY093490.1 Homo sapiens isolate IRCHF4A breast and ovarian cancer susceptibility 
+protein (BRCA1) gene, partial cds
+Length=333
+
+ Score = 40.1 bits (43),  Expect = 2.1
+ Identities = 23/24 (96%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  4    TTTTTGTCAACTTGAGGGAGGGAG  27
+            ||||||||| ||||||||||||||
+Sbjct  127  TTTTTGTCACCTTGAGGGAGGGAG  104
+
+
+>XM_032871318.1 PREDICTED: Lontra canadensis prohibitin (PHB), mRNA
+Length=1809
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTGGA  32
+             ||| ||||||| ||||||||||||||
+Sbjct  1134  TTGGCAACTTGGGGGAGGGAGGTGGA  1109
+
+
+>XM_032321469.1 PREDICTED: Mustela erminea prohibitin (PHB), transcript variant 
+X2, mRNA
+Length=1756
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTGGA  32
+             ||| ||||||| ||||||||||||||
+Sbjct  1078  TTGGCAACTTGGGGGAGGGAGGTGGA  1053
+
+
+>XM_032321468.1 PREDICTED: Mustela erminea prohibitin (PHB), transcript variant 
+X1, mRNA
+Length=1824
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTGGA  32
+             ||| ||||||| ||||||||||||||
+Sbjct  1146  TTGGCAACTTGGGGGAGGGAGGTGGA  1121
+
+
+>LR584403.1 Rhinatrema bivittatum genome assembly, chromosome: 17
+Length=63936646
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 27/31 (87%), Gaps = 0/31 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGTTTTTGTCAACTTGAGGGAGGGAGGTGG  31
+                 || |||||||||||||||||| || | ||||
+Sbjct  44150530  GGCTTTTTGTCAACTTGAGGGTGGTAAGTGG  44150500
+
+
+>XM_004764785.2 PREDICTED: Mustela putorius furo prohibitin (PHB), transcript 
+variant X2, mRNA
+Length=1880
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTGGA  32
+             ||| ||||||| ||||||||||||||
+Sbjct  1206  TTGGCAACTTGGGGGAGGGAGGTGGA  1181
+
+
+>XM_004764786.1 PREDICTED: Mustela putorius furo prohibitin (PHB), transcript 
+variant X1, mRNA
+Length=1808
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  7     TTGTCAACTTGAGGGAGGGAGGTGGA  32
+             ||| ||||||| ||||||||||||||
+Sbjct  1134  TTGGCAACTTGGGGGAGGGAGGTGGA  1109
+
+
+>NC_050892.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+ MT653609.1 Trigonopterus kotamobagensis voucher ARC2888 mitochondrion, complete 
+genome
+Length=18038
+
+ Score = 39.2 bits (42),  Expect = 2.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1    GGGTTTTTGTCAACTTGAGGG  21
+            |||||||||||||||||||||
+Sbjct  546  GGGTTTTTGTCAACTTGAGGG  526
+
+
+>LR738557.1 Neostethus bicornis genome assembly, chromosome: 5
+Length=25153120
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 27/30 (90%), Gaps = 1/30 (3%)
+ Strand=Plus/Plus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGGTGGAC  33
+                 ||||||||||| |||||||||| || ||||
+Sbjct  22587329  TTTTTGTCAACCTGAGGGAGGG-GGGGGAC  22587357
+
+
+>LR594557.1 Streptopelia turtur genome assembly, chromosome: 7
+Length=42930475
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 28/32 (88%), Gaps = 2/32 (6%)
+ Strand=Plus/Plus
+
+Query  1         GGGTTTTTGTCAA--CTTGAGGGAGGGAGGTG  30
+                 |||||||||||    |||||||||||||||||
+Sbjct  35205775  GGGTTTTTGTCTGTTCTTGAGGGAGGGAGGTG  35205806
+
+
+>CP018162.1 Oryza sativa Indica Group cultivar Shuhui498 chromosome 6 sequence
+Length=32465040
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGGTGG  31
+                 |||| ||||||||||||||||  |||||
+Sbjct  25223302  TTTTAGTCAACTTGAGGGAGGACGGTGG  25223275
+
+
+>AP014962.1 Oryza sativa Japonica Group DNA, chromosome 6, cultivar: Nipponbare, 
+complete sequence
+Length=31248787
+
+ Score = 38.3 bits (41),  Expect = 7.2
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  4         TTTTTGTCAACTTGAGGGAGGGAGGTGG  31
+                 |||| ||||||||||||||||  |||||
+Sbjct  23872255  TTTTAGTCAACTTGAGGGAGGACGGTGG  23872228
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Apr 4, 2021  3:07 AM
+  Number of letters in database: 421,452,043,337
+  Number of sequences in database:  69,074,960
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 69074960
+Number of Hits to DB: 4873702
+Number of extensions: 4620
+Number of successful extensions: 4620
+Number of sequences better than 10: 1
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 4620
+Number of HSP's successfully gapped: 1
+Length of database: 421452043337
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+
+
